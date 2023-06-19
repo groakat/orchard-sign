@@ -24,16 +24,17 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.8"
-     inkscape:cx="946.875"
-     inkscape:cy="393.125"
+     inkscape:cx="973.125"
+     inkscape:cy="430.625"
      inkscape:window-width="3766"
      inkscape:window-height="2096"
      inkscape:window-x="74"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g101191-0-2-9"
+     inkscape:current-layer="layer1"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     units="mm" />
   <defs
      id="defs2">
     <rect
@@ -120,12 +121,14 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g101909">
+       id="g101909"
+       style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
       <g
          id="g101191"
-         transform="translate(8.7852357,-0.23496628)">
+         transform="translate(8.7852357,-0.23496628)"
+         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
         <rect
-           style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.00836043;stroke-dashoffset:1.03181;-inkscape-stroke:hairline"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dashoffset:1.03181;stroke-miterlimit:4;stroke-dasharray:none"
            id="rect1002"
            width="60"
            height="145"
@@ -136,104 +139,108 @@
            transform="rotate(90)" />
         <g
            id="g217852"
-           transform="translate(0,0.52916667)">
+           transform="translate(0,0.52916667)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="18.212366"
              y="65.227455"
              id="text3440"><tspan
                sodipodi:role="line"
                id="tspan3438"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="18.212366"
                y="65.227455">PLOT_1</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="18.055742"
              y="58.194172"
              id="text15642"><tspan
                sodipodi:role="line"
                id="tspan15640"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="18.055742"
                y="58.194172">Plot Reference:</tspan></text>
         </g>
         <g
            id="g217858"
-           transform="translate(0,-0.22804311)">
+           transform="translate(0,-0.22804311)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="68.287231"
              y="65.142159"
              id="text3440-3"><tspan
                sodipodi:role="line"
                id="tspan3438-9"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="68.287231"
                y="65.142159">ROOT_1</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="68.294479"
              y="58.951382"
              id="text15642-2"><tspan
                sodipodi:role="line"
                id="tspan15640-9"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="68.294479"
                y="58.951382">Rootstock:</tspan></text>
         </g>
         <g
            id="g217864"
-           transform="translate(0,-0.02083638)">
+           transform="translate(0,-0.02083638)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="121.80189"
              y="64.934952"
              id="text3440-3-0"><tspan
                sodipodi:role="line"
                id="tspan3438-9-8"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="121.80189"
                y="64.934952">POLL_1</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="121.80914"
              y="58.744175"
              id="text15642-2-8"><tspan
                sodipodi:role="line"
                id="tspan15640-9-5"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="121.80914"
                y="58.744175">Pollination:</tspan></text>
         </g>
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
            d="M 18.965617,47.878015 H 146.44005"
            id="path48291" />
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"
            id="text58509"
-           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511)"
+           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511);stroke-width:0.37795276;stroke-miterlimit:4;stroke-dasharray:none"
            x="62.203125"
            y="0"><tspan
              x="242.11426"
              y="103.68359"
-             id="tspan218357"><tspan
+             id="tspan220072"><tspan
                style="font-weight:bold;text-align:center;text-anchor:middle"
-               id="tspan218355">VARIETY_1</tspan></tspan></text>
+               id="tspan220070">VARIETY_1</tspan></tspan></text>
       </g>
       <g
          id="g101191-1"
-         transform="translate(163.43767,-0.23496628)">
+         transform="translate(163.43767,-0.23496628)"
+         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
         <rect
-           style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.00836043;stroke-dashoffset:1.03181;-inkscape-stroke:hairline"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dashoffset:1.03181;stroke-miterlimit:4;stroke-dasharray:none"
            id="rect1002-8"
            width="60"
            height="145"
@@ -244,103 +251,107 @@
            transform="rotate(90)" />
         <g
            id="g217870"
-           transform="translate(0,0.55000305)">
+           transform="translate(0,0.55000305)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="18.212366"
              y="65.227455"
              id="text3440-5"><tspan
                sodipodi:role="line"
                id="tspan3438-97"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="18.212366"
                y="65.227455">PLOT_2</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="18.055742"
              y="58.194172"
              id="text15642-8"><tspan
                sodipodi:role="line"
                id="tspan15640-8"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="18.055742"
                y="58.194172">Plot Reference:</tspan></text>
         </g>
         <g
            id="g217876"
-           transform="translate(0,-0.20720673)">
+           transform="translate(0,-0.20720673)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="68.287231"
              y="65.142159"
              id="text3440-3-5"><tspan
                sodipodi:role="line"
                id="tspan3438-9-3"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="68.287231"
                y="65.142159">ROOT_2</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="68.294479"
              y="58.951382"
              id="text15642-2-3"><tspan
                sodipodi:role="line"
                id="tspan15640-9-1"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="68.294479"
                y="58.951382">Rootstock:</tspan></text>
         </g>
         <g
-           id="g217882">
+           id="g217882"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="121.80189"
              y="64.934952"
              id="text3440-3-0-89"><tspan
                sodipodi:role="line"
                id="tspan3438-9-8-6"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="121.80189"
                y="64.934952">POLL_2</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="121.80914"
              y="58.744175"
              id="text15642-2-8-4"><tspan
                sodipodi:role="line"
                id="tspan15640-9-5-3"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="121.80914"
                y="58.744175">Pollination:</tspan></text>
         </g>
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
            d="M 18.965617,47.878015 H 146.44005"
            id="path48291-3" />
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"
            id="text58509-38"
-           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-4)"
+           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-4);stroke-width:0.37795276;stroke-miterlimit:4;stroke-dasharray:none"
            x="62.203125"
            y="0"><tspan
              x="242.11426"
              y="103.68359"
-             id="tspan218361"><tspan
+             id="tspan220076"><tspan
                style="font-weight:bold;text-align:center;text-anchor:middle"
-               id="tspan218359">VARIETY_2</tspan></tspan></text>
+               id="tspan220074">VARIETY_2</tspan></tspan></text>
       </g>
       <g
          id="g101191-0"
-         transform="translate(316.54941,-0.23496628)">
+         transform="translate(316.54941,-0.23496628)"
+         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
         <rect
-           style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.00836043;stroke-dashoffset:1.03181;-inkscape-stroke:hairline"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dashoffset:1.03181;stroke-miterlimit:4;stroke-dasharray:none"
            id="rect1002-4"
            width="60"
            height="145"
@@ -351,107 +362,112 @@
            transform="rotate(90)" />
         <g
            id="g217888"
-           transform="translate(0,0.55000305)">
+           transform="translate(0,0.55000305)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="18.212366"
              y="65.227455"
              id="text3440-8"><tspan
                sodipodi:role="line"
                id="tspan3438-8"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="18.212366"
                y="65.227455">PLOT_3</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="18.055742"
              y="58.194172"
              id="text15642-7"><tspan
                sodipodi:role="line"
                id="tspan15640-6"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="18.055742"
                y="58.194172">Plot Reference:</tspan></text>
         </g>
         <g
            id="g217894"
-           transform="translate(0,-0.20720673)">
+           transform="translate(0,-0.20720673)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="68.287231"
              y="65.142159"
              id="text3440-3-89"><tspan
                sodipodi:role="line"
                id="tspan3438-9-7"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="68.287231"
                y="65.142159">ROOT_3</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="68.294479"
              y="58.951382"
              id="text15642-2-4"><tspan
                sodipodi:role="line"
                id="tspan15640-9-3"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="68.294479"
                y="58.951382">Rootstock:</tspan></text>
         </g>
         <g
-           id="g217900">
+           id="g217900"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="121.80189"
              y="64.934952"
              id="text3440-3-0-0"><tspan
                sodipodi:role="line"
                id="tspan3438-9-8-3"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="121.80189"
                y="64.934952">POLL_3</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="121.80914"
              y="58.744175"
              id="text15642-2-8-0"><tspan
                sodipodi:role="line"
                id="tspan15640-9-5-9"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="121.80914"
                y="58.744175">Pollination:</tspan></text>
         </g>
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
            d="M 18.965617,47.878015 H 146.44005"
            id="path48291-2" />
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"
            id="text58509-5"
-           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-6)"
+           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-6);stroke-width:0.37795276;stroke-miterlimit:4;stroke-dasharray:none"
            x="62.203125"
            y="0"><tspan
              x="242.11426"
              y="103.68359"
-             id="tspan218365"><tspan
+             id="tspan220080"><tspan
                style="font-weight:bold;text-align:center;text-anchor:middle"
-               id="tspan218363">VARIETY_3</tspan></tspan></text>
+               id="tspan220078">VARIETY_3</tspan></tspan></text>
       </g>
     </g>
     <g
        id="g101854"
-       transform="translate(1.0572277,2.0735168)">
+       transform="translate(1.0572277,2.0735168)"
+       style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
       <g
          id="g101191-4"
-         transform="translate(7.728008,67.180972)">
+         transform="translate(7.728008,67.180972)"
+         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
         <rect
-           style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.00836043;stroke-dashoffset:1.03181;-inkscape-stroke:hairline"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dashoffset:1.03181;stroke-miterlimit:4;stroke-dasharray:none"
            id="rect1002-6"
            width="60"
            height="145"
@@ -462,103 +478,107 @@
            transform="rotate(90)" />
         <g
            id="g217906"
-           transform="translate(0,0.55000305)">
+           transform="translate(0,0.55000305)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="18.212366"
              y="65.227455"
              id="text3440-9"><tspan
                sodipodi:role="line"
                id="tspan3438-2"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="18.212366"
                y="65.227455">PLOT_4</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="18.055742"
              y="58.194172"
              id="text15642-77"><tspan
                sodipodi:role="line"
                id="tspan15640-5"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="18.055742"
                y="58.194172">Plot Reference:</tspan></text>
         </g>
         <g
            id="g217912"
-           transform="translate(0,-0.20720673)">
+           transform="translate(0,-0.20720673)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="68.287231"
              y="65.142159"
              id="text3440-3-2"><tspan
                sodipodi:role="line"
                id="tspan3438-9-4"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="68.287231"
                y="65.142159">ROOT_4</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="68.294479"
              y="58.951382"
              id="text15642-2-48"><tspan
                sodipodi:role="line"
                id="tspan15640-9-12"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="68.294479"
                y="58.951382">Rootstock:</tspan></text>
         </g>
         <g
-           id="g217918">
+           id="g217918"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="121.80189"
              y="64.934952"
              id="text3440-3-0-893"><tspan
                sodipodi:role="line"
                id="tspan3438-9-8-68"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="121.80189"
                y="64.934952">POLL_4</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="121.80914"
              y="58.744175"
              id="text15642-2-8-02"><tspan
                sodipodi:role="line"
                id="tspan15640-9-5-10"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="121.80914"
                y="58.744175">Pollination:</tspan></text>
         </g>
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
            d="M 18.965617,47.878015 H 146.44005"
            id="path48291-5" />
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"
            id="text58509-1"
-           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-40)"
+           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-40);stroke-width:0.37795276;stroke-miterlimit:4;stroke-dasharray:none"
            x="62.203125"
            y="0"><tspan
              x="242.11426"
              y="103.68359"
-             id="tspan218369"><tspan
+             id="tspan220084"><tspan
                style="font-weight:bold;text-align:center;text-anchor:middle"
-               id="tspan218367">VARIETY_4</tspan></tspan></text>
+               id="tspan220082">VARIETY_4</tspan></tspan></text>
       </g>
       <g
          id="g101191-1-1"
-         transform="translate(162.38044,67.180972)">
+         transform="translate(162.38044,67.180972)"
+         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
         <rect
-           style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.00836043;stroke-dashoffset:1.03181;-inkscape-stroke:hairline"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dashoffset:1.03181;stroke-miterlimit:4;stroke-dasharray:none"
            id="rect1002-8-0"
            width="60"
            height="145"
@@ -569,103 +589,107 @@
            transform="rotate(90)" />
         <g
            id="g217924"
-           transform="translate(0,0.55000305)">
+           transform="translate(0,0.55000305)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="18.212366"
              y="65.227455"
              id="text3440-5-8"><tspan
                sodipodi:role="line"
                id="tspan3438-97-5"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="18.212366"
                y="65.227455">PLOT_5</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="18.055742"
              y="58.194172"
              id="text15642-8-4"><tspan
                sodipodi:role="line"
                id="tspan15640-8-6"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="18.055742"
                y="58.194172">Plot Reference:</tspan></text>
         </g>
         <g
            id="g217930"
-           transform="translate(0,-0.20720673)">
+           transform="translate(0,-0.20720673)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="68.287231"
              y="65.142159"
              id="text3440-3-5-0"><tspan
                sodipodi:role="line"
                id="tspan3438-9-3-6"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="68.287231"
                y="65.142159">ROOT_5</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="68.294479"
              y="58.951382"
              id="text15642-2-3-2"><tspan
                sodipodi:role="line"
                id="tspan15640-9-1-5"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="68.294479"
                y="58.951382">Rootstock:</tspan></text>
         </g>
         <g
-           id="g217936">
+           id="g217936"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="121.80189"
              y="64.934952"
              id="text3440-3-0-89-8"><tspan
                sodipodi:role="line"
                id="tspan3438-9-8-6-6"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="121.80189"
                y="64.934952">POLL_5</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="121.80914"
              y="58.744175"
              id="text15642-2-8-4-2"><tspan
                sodipodi:role="line"
                id="tspan15640-9-5-3-8"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="121.80914"
                y="58.744175">Pollination:</tspan></text>
         </g>
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
            d="M 18.965617,47.878015 H 146.44005"
            id="path48291-3-4" />
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"
            id="text58509-38-7"
-           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-4-5)"
+           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-4-5);stroke-width:0.37795276;stroke-miterlimit:4;stroke-dasharray:none"
            x="62.203125"
            y="0"><tspan
              x="242.11426"
              y="103.68359"
-             id="tspan218373"><tspan
+             id="tspan220088"><tspan
                style="font-weight:bold;text-align:center;text-anchor:middle"
-               id="tspan218371">VARIETY_5</tspan></tspan></text>
+               id="tspan220086">VARIETY_5</tspan></tspan></text>
       </g>
       <g
          id="g101191-0-2"
-         transform="translate(315.49218,67.180972)">
+         transform="translate(315.49218,67.180972)"
+         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
         <rect
-           style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.00836043;stroke-dashoffset:1.03181;-inkscape-stroke:hairline"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dashoffset:1.03181;stroke-miterlimit:4;stroke-dasharray:none"
            id="rect1002-4-4"
            width="60"
            height="145"
@@ -676,107 +700,112 @@
            transform="rotate(90)" />
         <g
            id="g217942"
-           transform="translate(0,0.55000305)">
+           transform="translate(0,0.55000305)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="18.212366"
              y="65.227455"
              id="text3440-8-0"><tspan
                sodipodi:role="line"
                id="tspan3438-8-6"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="18.212366"
                y="65.227455">PLOT_6</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="18.055742"
              y="58.194172"
              id="text15642-7-9"><tspan
                sodipodi:role="line"
                id="tspan15640-6-0"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="18.055742"
                y="58.194172">Plot Reference:</tspan></text>
         </g>
         <g
            id="g217948"
-           transform="translate(0,-0.20720673)">
+           transform="translate(0,-0.20720673)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="68.287231"
              y="65.142159"
              id="text3440-3-89-2"><tspan
                sodipodi:role="line"
                id="tspan3438-9-7-9"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="68.287231"
                y="65.142159">ROOT_6</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="68.294479"
              y="58.951382"
              id="text15642-2-4-8"><tspan
                sodipodi:role="line"
                id="tspan15640-9-3-1"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="68.294479"
                y="58.951382">Rootstock:</tspan></text>
         </g>
         <g
-           id="g217954">
+           id="g217954"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="121.80189"
              y="64.934952"
              id="text3440-3-0-0-3"><tspan
                sodipodi:role="line"
                id="tspan3438-9-8-3-1"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="121.80189"
                y="64.934952">POLL_6</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="121.80914"
              y="58.744175"
              id="text15642-2-8-0-1"><tspan
                sodipodi:role="line"
                id="tspan15640-9-5-9-0"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="121.80914"
                y="58.744175">Pollination:</tspan></text>
         </g>
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
            d="M 18.965617,47.878015 H 146.44005"
            id="path48291-2-3" />
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"
            id="text58509-5-4"
-           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-6-9)"
+           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-6-9);stroke-width:0.37795276;stroke-miterlimit:4;stroke-dasharray:none"
            x="62.203125"
            y="0"><tspan
              x="242.11426"
              y="103.68359"
-             id="tspan218377"><tspan
+             id="tspan220092"><tspan
                style="font-weight:bold;text-align:center;text-anchor:middle"
-               id="tspan218375">VARIETY_6</tspan></tspan></text>
+               id="tspan220090">VARIETY_6</tspan></tspan></text>
       </g>
     </g>
     <g
        id="g101854-1"
-       transform="translate(1.0572277,71.562976)">
+       transform="translate(1.0572277,71.562976)"
+       style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
       <g
          id="g101191-4-9"
-         transform="translate(7.728008,67.180972)">
+         transform="translate(7.728008,67.180972)"
+         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
         <rect
-           style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.00836043;stroke-dashoffset:1.03181;-inkscape-stroke:hairline"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dashoffset:1.03181;stroke-miterlimit:4;stroke-dasharray:none"
            id="rect1002-6-6"
            width="60"
            height="145"
@@ -787,103 +816,107 @@
            transform="rotate(90)" />
         <g
            id="g217960"
-           transform="translate(0,0.55000305)">
+           transform="translate(0,0.55000305)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="18.212366"
              y="65.227455"
              id="text3440-9-9"><tspan
                sodipodi:role="line"
                id="tspan3438-2-3"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="18.212366"
                y="65.227455">PLOT_7</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="18.055742"
              y="58.194172"
              id="text15642-77-0"><tspan
                sodipodi:role="line"
                id="tspan15640-5-5"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="18.055742"
                y="58.194172">Plot Reference:</tspan></text>
         </g>
         <g
            id="g217966"
-           transform="translate(0,-0.20720673)">
+           transform="translate(0,-0.20720673)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="68.287231"
              y="65.142159"
              id="text3440-3-2-3"><tspan
                sodipodi:role="line"
                id="tspan3438-9-4-8"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="68.287231"
                y="65.142159">ROOT_7</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="68.294479"
              y="58.951382"
              id="text15642-2-48-6"><tspan
                sodipodi:role="line"
                id="tspan15640-9-12-6"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="68.294479"
                y="58.951382">Rootstock:</tspan></text>
         </g>
         <g
-           id="g217972">
+           id="g217972"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="121.80189"
              y="64.934952"
              id="text3440-3-0-893-4"><tspan
                sodipodi:role="line"
                id="tspan3438-9-8-68-0"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="121.80189"
                y="64.934952">POLL_7</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="121.80914"
              y="58.744175"
              id="text15642-2-8-02-0"><tspan
                sodipodi:role="line"
                id="tspan15640-9-5-10-4"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="121.80914"
                y="58.744175">Pollination:</tspan></text>
         </g>
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
            d="M 18.965617,47.878015 H 146.44005"
            id="path48291-5-6" />
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"
            id="text58509-1-2"
-           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-40-0)"
+           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-40-0);stroke-width:0.37795276;stroke-miterlimit:4;stroke-dasharray:none"
            x="62.203125"
            y="0"><tspan
              x="242.11426"
              y="103.68359"
-             id="tspan218381"><tspan
+             id="tspan220096"><tspan
                style="font-weight:bold;text-align:center;text-anchor:middle"
-               id="tspan218379">VARIETY_7</tspan></tspan></text>
+               id="tspan220094">VARIETY_7</tspan></tspan></text>
       </g>
       <g
          id="g101191-1-1-6"
-         transform="translate(162.38044,67.180972)">
+         transform="translate(162.38044,67.180972)"
+         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
         <rect
-           style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.00836043;stroke-dashoffset:1.03181;-inkscape-stroke:hairline"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dashoffset:1.03181;stroke-miterlimit:4;stroke-dasharray:none"
            id="rect1002-8-0-7"
            width="60"
            height="145"
@@ -894,103 +927,107 @@
            transform="rotate(90)" />
         <g
            id="g217978"
-           transform="translate(0,0.55000305)">
+           transform="translate(0,0.55000305)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="18.212366"
              y="65.227455"
              id="text3440-5-8-5"><tspan
                sodipodi:role="line"
                id="tspan3438-97-5-6"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="18.212366"
                y="65.227455">PLOT_8</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="18.055742"
              y="58.194172"
              id="text15642-8-4-7"><tspan
                sodipodi:role="line"
                id="tspan15640-8-6-2"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="18.055742"
                y="58.194172">Plot Reference:</tspan></text>
         </g>
         <g
            id="g217984"
-           transform="translate(0,-0.20720673)">
+           transform="translate(0,-0.20720673)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="68.287231"
              y="65.142159"
              id="text3440-3-5-0-9"><tspan
                sodipodi:role="line"
                id="tspan3438-9-3-6-8"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="68.287231"
                y="65.142159">ROOT_8</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="68.294479"
              y="58.951382"
              id="text15642-2-3-2-8"><tspan
                sodipodi:role="line"
                id="tspan15640-9-1-5-2"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="68.294479"
                y="58.951382">Rootstock:</tspan></text>
         </g>
         <g
-           id="g217990">
+           id="g217990"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="121.80189"
              y="64.934952"
              id="text3440-3-0-89-8-9"><tspan
                sodipodi:role="line"
                id="tspan3438-9-8-6-6-9"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="121.80189"
                y="64.934952">POLL_8</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="121.80914"
              y="58.744175"
              id="text15642-2-8-4-2-6"><tspan
                sodipodi:role="line"
                id="tspan15640-9-5-3-8-0"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="121.80914"
                y="58.744175">Pollination:</tspan></text>
         </g>
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
            d="M 18.965617,47.878015 H 146.44005"
            id="path48291-3-4-2" />
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"
            id="text58509-38-7-7"
-           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-4-5-3)"
+           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-4-5-3);stroke-width:0.37795276;stroke-miterlimit:4;stroke-dasharray:none"
            x="62.203125"
            y="0"><tspan
              x="242.11426"
              y="103.68359"
-             id="tspan218385"><tspan
+             id="tspan220100"><tspan
                style="font-weight:bold;text-align:center;text-anchor:middle"
-               id="tspan218383">VARIETY_8</tspan></tspan></text>
+               id="tspan220098">VARIETY_8</tspan></tspan></text>
       </g>
       <g
          id="g101191-0-2-6"
-         transform="translate(315.49218,67.180972)">
+         transform="translate(315.49218,67.180972)"
+         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
         <rect
-           style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.00836043;stroke-dashoffset:1.03181;-inkscape-stroke:hairline"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dashoffset:1.03181;stroke-miterlimit:4;stroke-dasharray:none"
            id="rect1002-4-4-1"
            width="60"
            height="145"
@@ -1001,107 +1038,112 @@
            transform="rotate(90)" />
         <g
            id="g217996"
-           transform="translate(0,0.55000305)">
+           transform="translate(0,0.55000305)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="18.212366"
              y="65.227455"
              id="text3440-8-0-3"><tspan
                sodipodi:role="line"
                id="tspan3438-8-6-2"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="18.212366"
                y="65.227455">PLOT_9</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="18.055742"
              y="58.194172"
              id="text15642-7-9-9"><tspan
                sodipodi:role="line"
                id="tspan15640-6-0-9"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="18.055742"
                y="58.194172">Plot Reference:</tspan></text>
         </g>
         <g
            id="g218002"
-           transform="translate(0,-0.20720673)">
+           transform="translate(0,-0.20720673)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="68.287231"
              y="65.142159"
              id="text3440-3-89-2-1"><tspan
                sodipodi:role="line"
                id="tspan3438-9-7-9-5"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="68.287231"
                y="65.142159">ROOT_9</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="68.294479"
              y="58.951382"
              id="text15642-2-4-8-1"><tspan
                sodipodi:role="line"
                id="tspan15640-9-3-1-4"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="68.294479"
                y="58.951382">Rootstock:</tspan></text>
         </g>
         <g
-           id="g218008">
+           id="g218008"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="121.80189"
              y="64.934952"
              id="text3440-3-0-0-3-9"><tspan
                sodipodi:role="line"
                id="tspan3438-9-8-3-1-1"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="121.80189"
                y="64.934952">POLL_9</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="121.80914"
              y="58.744175"
              id="text15642-2-8-0-1-0"><tspan
                sodipodi:role="line"
                id="tspan15640-9-5-9-0-7"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="121.80914"
                y="58.744175">Pollination:</tspan></text>
         </g>
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
            d="M 18.965617,47.878015 H 146.44005"
            id="path48291-2-3-5" />
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"
            id="text58509-5-4-8"
-           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-6-9-9)"
+           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-6-9-9);stroke-width:0.37795276;stroke-miterlimit:4;stroke-dasharray:none"
            x="62.203125"
            y="0"><tspan
              x="242.11426"
              y="103.68359"
-             id="tspan218389"><tspan
+             id="tspan220104"><tspan
                style="font-weight:bold;text-align:center;text-anchor:middle"
-               id="tspan218387">VARIETY_9</tspan></tspan></text>
+               id="tspan220102">VARIETY_9</tspan></tspan></text>
       </g>
     </g>
     <g
        id="g101854-8"
-       transform="translate(1.0572277,141.05244)">
+       transform="translate(1.0572277,141.05244)"
+       style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
       <g
          id="g101191-4-0"
-         transform="translate(7.728008,67.180972)">
+         transform="translate(7.728008,67.180972)"
+         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
         <rect
-           style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.00836043;stroke-dashoffset:1.03181;-inkscape-stroke:hairline"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dashoffset:1.03181;stroke-miterlimit:4;stroke-dasharray:none"
            id="rect1002-6-4"
            width="60"
            height="145"
@@ -1112,103 +1154,107 @@
            transform="rotate(90)" />
         <g
            id="g218014"
-           transform="translate(0,0.55000305)">
+           transform="translate(0,0.55000305)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="18.212366"
              y="65.227455"
              id="text3440-9-2"><tspan
                sodipodi:role="line"
                id="tspan3438-2-9"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="18.212366"
                y="65.227455">PLOT_10</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="18.055742"
              y="58.194172"
              id="text15642-77-04"><tspan
                sodipodi:role="line"
                id="tspan15640-5-2"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="18.055742"
                y="58.194172">Plot Reference:</tspan></text>
         </g>
         <g
            id="g218020"
-           transform="translate(0,-0.20720673)">
+           transform="translate(0,-0.20720673)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="68.287231"
              y="65.142159"
              id="text3440-3-2-6"><tspan
                sodipodi:role="line"
                id="tspan3438-9-4-1"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="68.287231"
                y="65.142159">ROOT_10</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="68.294479"
              y="58.951382"
              id="text15642-2-48-2"><tspan
                sodipodi:role="line"
                id="tspan15640-9-12-2"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="68.294479"
                y="58.951382">Rootstock:</tspan></text>
         </g>
         <g
-           id="g218026">
+           id="g218026"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="121.80189"
              y="64.934952"
              id="text3440-3-0-893-0"><tspan
                sodipodi:role="line"
                id="tspan3438-9-8-68-5"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="121.80189"
                y="64.934952">POLL_10</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="121.80914"
              y="58.744175"
              id="text15642-2-8-02-5"><tspan
                sodipodi:role="line"
                id="tspan15640-9-5-10-2"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="121.80914"
                y="58.744175">Pollination:</tspan></text>
         </g>
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
            d="M 18.965617,47.878015 H 146.44005"
            id="path48291-5-9" />
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"
            id="text58509-1-0"
-           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-40-7)"
+           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-40-7);stroke-width:0.37795276;stroke-miterlimit:4;stroke-dasharray:none"
            x="62.203125"
            y="0"><tspan
              x="233.76465"
              y="103.68359"
-             id="tspan218393"><tspan
+             id="tspan220108"><tspan
                style="font-weight:bold;text-align:center;text-anchor:middle"
-               id="tspan218391">VARIETY_10</tspan></tspan></text>
+               id="tspan220106">VARIETY_10</tspan></tspan></text>
       </g>
       <g
          id="g101191-1-1-2"
-         transform="translate(162.38044,67.180972)">
+         transform="translate(162.38044,67.180972)"
+         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
         <rect
-           style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.00836043;stroke-dashoffset:1.03181;-inkscape-stroke:hairline"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dashoffset:1.03181;stroke-miterlimit:4;stroke-dasharray:none"
            id="rect1002-8-0-8"
            width="60"
            height="145"
@@ -1219,103 +1265,107 @@
            transform="rotate(90)" />
         <g
            id="g218032"
-           transform="translate(0,0.55000305)">
+           transform="translate(0,0.55000305)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="18.212366"
              y="65.227455"
              id="text3440-5-8-3"><tspan
                sodipodi:role="line"
                id="tspan3438-97-5-8"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="18.212366"
                y="65.227455">PLOT_11</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="18.055742"
              y="58.194172"
              id="text15642-8-4-0"><tspan
                sodipodi:role="line"
                id="tspan15640-8-6-9"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="18.055742"
                y="58.194172">Plot Reference:</tspan></text>
         </g>
         <g
            id="g218038"
-           transform="translate(0,-0.20720673)">
+           transform="translate(0,-0.20720673)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="68.287231"
              y="65.142159"
              id="text3440-3-5-0-0"><tspan
                sodipodi:role="line"
                id="tspan3438-9-3-6-4"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="68.287231"
                y="65.142159">ROOT_11</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="68.294479"
              y="58.951382"
              id="text15642-2-3-2-1"><tspan
                sodipodi:role="line"
                id="tspan15640-9-1-5-9"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="68.294479"
                y="58.951382">Rootstock:</tspan></text>
         </g>
         <g
-           id="g218044">
+           id="g218044"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="121.80189"
              y="64.934952"
              id="text3440-3-0-89-8-6"><tspan
                sodipodi:role="line"
                id="tspan3438-9-8-6-6-2"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="121.80189"
                y="64.934952">POLL_11</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="121.80914"
              y="58.744175"
              id="text15642-2-8-4-2-5"><tspan
                sodipodi:role="line"
                id="tspan15640-9-5-3-8-4"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="121.80914"
                y="58.744175">Pollination:</tspan></text>
         </g>
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
            d="M 18.965617,47.878015 H 146.44005"
            id="path48291-3-4-4" />
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"
            id="text58509-38-7-9"
-           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-4-5-0)"
+           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-4-5-0);stroke-width:0.37795276;stroke-miterlimit:4;stroke-dasharray:none"
            x="62.203125"
            y="0"><tspan
              x="233.76465"
              y="103.68359"
-             id="tspan218397"><tspan
+             id="tspan220112"><tspan
                style="font-weight:bold;text-align:center;text-anchor:middle"
-               id="tspan218395">VARIETY_11</tspan></tspan></text>
+               id="tspan220110">VARIETY_11</tspan></tspan></text>
       </g>
       <g
          id="g101191-0-2-9"
-         transform="translate(315.49218,67.180972)">
+         transform="translate(315.49218,67.180972)"
+         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
         <rect
-           style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.00836043;stroke-dashoffset:1.03181;-inkscape-stroke:hairline"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dashoffset:1.03181;stroke-miterlimit:4;stroke-dasharray:none"
            id="rect1002-4-4-3"
            width="60"
            height="145"
@@ -1326,101 +1376,104 @@
            transform="rotate(90)" />
         <g
            id="g218050"
-           transform="translate(0,0.55000305)">
+           transform="translate(0,0.55000305)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="18.212366"
              y="65.227455"
              id="text3440-8-0-6"><tspan
                sodipodi:role="line"
                id="tspan3438-8-6-0"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="18.212366"
                y="65.227455">PLOT_12</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="18.055742"
              y="58.194172"
              id="text15642-7-9-2"><tspan
                sodipodi:role="line"
                id="tspan15640-6-0-94"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="18.055742"
                y="58.194172">Plot Reference:</tspan></text>
         </g>
         <g
            id="g218056"
-           transform="translate(0,-0.20720673)">
+           transform="translate(0,-0.20720673)"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="68.287231"
              y="65.142159"
              id="text3440-3-89-2-5"><tspan
                sodipodi:role="line"
                id="tspan3438-9-7-9-0"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="68.287231"
                y="65.142159">ROOT_12</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="68.294479"
              y="58.951382"
              id="text15642-2-4-8-3"><tspan
                sodipodi:role="line"
                id="tspan15640-9-3-1-5"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="68.294479"
                y="58.951382">Rootstock:</tspan></text>
         </g>
         <g
-           id="g218062">
+           id="g218062"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="121.80189"
              y="64.934952"
              id="text3440-3-0-0-3-1"><tspan
                sodipodi:role="line"
                id="tspan3438-9-8-3-1-7"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="121.80189"
                y="64.934952">POLL_12</tspan></text>
           <text
              xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
              x="121.80914"
              y="58.744175"
              id="text15642-2-8-0-1-4"><tspan
                sodipodi:role="line"
                id="tspan15640-9-5-9-0-3"
-               style="stroke-width:0.264583"
+               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
                x="121.80914"
                y="58.744175">Pollination:</tspan></text>
         </g>
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
            d="M 18.965617,47.878015 H 146.44005"
            id="path48291-2-3-1" />
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"
            id="text58509-5-4-4"
-           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-6-9-4)"
+           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-6-9-4);stroke-width:0.37795276;stroke-miterlimit:4;stroke-dasharray:none"
            x="62.203125"
            y="0"><tspan
              x="233.76465"
              y="103.68359"
-             id="tspan218401"><tspan
+             id="tspan220116"><tspan
                style="font-weight:bold;text-align:center;text-anchor:middle"
-               id="tspan218399">VARIETY_12</tspan></tspan></text>
+               id="tspan220114">VARIETY_12</tspan></tspan></text>
       </g>
     </g>
     <rect
-       style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.00836043;stroke-dashoffset:1.03181;-inkscape-stroke:hairline"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dashoffset:1.03181;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect1002-9"
        width="60"
        height="145"
@@ -1430,97 +1483,100 @@
        ry="1.1544596"
        transform="rotate(90)" />
     <g
-       id="g217834">
+       id="g217834"
+       style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
       <text
          xml:space="preserve"
-         style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
          x="27.297033"
          y="-65.522324"
          id="text3440-6"><tspan
            sodipodi:role="line"
            id="tspan3438-3"
-           style="stroke-width:0.264583"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
            x="27.297033"
            y="-65.522324">34</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
          x="27.140409"
          y="-72.555611"
          id="text15642-6"><tspan
            sodipodi:role="line"
            id="tspan15640-1"
-           style="stroke-width:0.264583"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
            x="27.140409"
            y="-72.555611">Plot Reference:</tspan></text>
     </g>
     <g
        id="g217840"
-       transform="translate(0,-0.75720978)">
+       transform="translate(0,-0.75720978)"
+       style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
       <text
          xml:space="preserve"
-         style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
          x="77.371895"
          y="-65.60762"
          id="text3440-3-8"><tspan
            sodipodi:role="line"
            id="tspan3438-9-5"
-           style="stroke-width:0.264583"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
            x="77.371895"
            y="-65.60762">On pear seedling</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
          x="77.379143"
          y="-71.798401"
          id="text15642-2-1"><tspan
            sodipodi:role="line"
            id="tspan15640-9-59"
-           style="stroke-width:0.264583"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
            x="77.379143"
            y="-71.798401">Rootstock:</tspan></text>
     </g>
     <g
        id="g217846"
-       transform="translate(0,-0.55000305)">
+       transform="translate(0,-0.55000305)"
+       style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
       <text
          xml:space="preserve"
-         style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
          x="130.88655"
          y="-65.814827"
          id="text3440-3-0-8"><tspan
            sodipodi:role="line"
            id="tspan3438-9-8-4"
-           style="stroke-width:0.264583"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
            x="130.88655"
            y="-65.814827">Self fertile</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
          x="130.89381"
          y="-72.005608"
          id="text15642-2-8-8"><tspan
            sodipodi:role="line"
            id="tspan15640-9-5-1"
-           style="stroke-width:0.264583"
+           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
            x="130.89381"
            y="-72.005608">Pollination:</tspan></text>
     </g>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="M 28.050284,-82.871765 H 155.52472"
        id="path48291-0" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,9.0846666,-124.92891)"
        id="text58509-3"
-       style="font-size:24px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect58511-0)"
+       style="font-size:24px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect58511-0);stroke-width:0.37795276;stroke-miterlimit:4;stroke-dasharray:none"
        x="104.31445"
        y="0"><tspan
          x="102.52051"
          y="103.68359"
-         id="tspan218405"><tspan
+         id="tspan220120"><tspan
            style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-           id="tspan218403">Christie * from Carse of Gowrie </tspan></tspan></text>
+           id="tspan220118">Christie * from Carse of Gowrie </tspan></tspan></text>
   </g>
 </svg>
