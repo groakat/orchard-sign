@@ -28,19 +28,19 @@ def update_template(template_content, row, index):
     
     index_str = str(index)
     
-    new_content = template_content.replace("PLOT_"+ index_str, str(row[1]["Plot Reference"]))
+    new_content = template_content.replace(">PLOT_"+ index_str+"<", ">"+str(row[1]["PLOT_REF"]+"<"))
     
-    new_content = new_content.replace("VARIETY_"+ index_str, str(row[1]["Variety"])) 
+    new_content = new_content.replace(">VARIETY_"+ index_str+"<", ">"+str(row[1]["VARIETY"]+"<")) 
         
-    if isinstance(row[1]["Rootstock"], str):
-        new_content = new_content.replace("ROOT_"+ index_str, str(row[1]["Rootstock"]))
+    if isinstance(row[1]["ROOTSTOCKS"], str):
+        new_content = new_content.replace(">ROOT_"+ index_str+"<", ">"+str(row[1]["ROOTSTOCKS"]+"<"))
     else:
-        new_content = new_content.replace("ROOT_"+ index_str, " ")
+        new_content = new_content.replace(">ROOT_"+ index_str+"<", "> <")
         
-    if isinstance(row[1]["Pollination Code"], str):
-        new_content = new_content.replace("POLL_"+ index_str, str(row[1]["Pollination Code"]))
+    if isinstance(row[1]["Code"], str):
+        new_content = new_content.replace(">POLL_"+ index_str+"<", ">"+str(row[1]["Code"]+"<"))
     else:
-        new_content = new_content.replace("POLL_"+ index_str, " ")
+        new_content = new_content.replace(">POLL_"+ index_str+"<", "> <")
         
     # return the perhaps partially updated template
     return new_content
