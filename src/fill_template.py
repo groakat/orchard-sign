@@ -1,64 +1,88 @@
 import pandas as pd
 
-# source template
-template_path = "../test-data/template.svg"
-
-# source database csv
-database_path = "../test-data/example.csv"
-
-def get_template_content(template_path):
-    # read template.svg
+def get_template(template_path):
+    # return template.svg content;  template_size orchard signs with numbered placeholders
     try:
         with open(template_path, 'r') as template_file:
-            template_content = template_file.read()   # treat this as read only content
+            template = template_file.read()
             template_file.close()
     except FileNotFoundError:
         print(f"File '{template_path}' not found.")
-    return template_content
+    return template
 
-def create_svg_files(template_content, orchard_data_frame):
-    for index, row in orchard_data_frame.iterrows():
-        # replace template placeholders with text from database
-        new_content = template_content.replace("plot", row["Plot Reference"])     
-        new_content = new_content.replace("variety", row["Variety"])    
-        if isinstance(row["Weblink"], str):                                     
-            new_content = new_content.replace("weblink", row["Weblink"])
-        else:
-            new_content = new_content.replace("weblink", " ")
-        if isinstance(row["Rootstock"], str):
-            new_content = new_content.replace("rootstock", row["Rootstock"])
-        else:
-            new_content = new_content.replace("rootstock", " ")
-        if isinstance(row["Pollination Code"], str):
-            new_content = new_content.replace("pollination", row["Pollination Code"])
-        else:
-            new_content = new_content.replace("pollination", " ")
-        if isinstance(row["Notes_1"], str):
-            new_content = new_content.replace("notes_1", row["Notes_1"])
-        else:
-            new_content = new_content.replace("notes_1", " ")
-        if isinstance(row["Notes_2"], str):
-            new_content = new_content.replace("notes_2", row["Notes_2"])
-        else:
-            new_content = new_content.replace("notes_2", " ")
-
-        # save the created new content as an svg file
-        output_path = "../output/plot" + row["Plot Reference"] + ".svg"
-        try:
-            with open(output_path, 'w') as output_file:
-                output_file.write(new_content)
-                output_file.close()
-                # print("Created file for plot", row["Plot Reference"])
-        except FileNotFoundError:
-                print(f"File '{output_path}' not created.")
+def update_template(template_content, row, index):
+    # input:
+    #   the template as perhaps already modified by this function
+    #   the database row 
+    #   the sign sequence number 0..template_size-1
+    # return:
+    #   the modified template
     
+    index_str = str(index)
+
+    # replace eg "PLOT_REF_11<" with "C78<" in template_content
+    new_content = template_content.replace("PLOT_"+ index_str+"<", str(row[1]["PLOT_REF"]+"<"))
+    
+    new_content = new_content.replace("VARIETY_"+ index_str+"<", str(row[1]["VARIETY"]+"<")) 
+        
+    if isinstance(row[1]["ROOTSTOCKS"], str):
+        new_content = new_content.replace("ROOT_"+ index_str+"<", str(row[1]["ROOTSTOCKS"]+"<"))
+    else:
+        new_content = new_content.replace("ROOT_"+ index_str+"<", " <")
+        
+    if isinstance(row[1]["Code"], str):
+        new_content = new_content.replace("POLL_"+ index_str+"<", str(row[1]["Code"]+"<"))
+    else:
+        new_content = new_content.replace("POLL_"+ index_str+"<", " <")
+        
+    return new_content
 
 
-# # read the database csv with string encoding forced
-# my_orchard_data_frame = pd.read_csv(database_path, dtype="string")
+def save_template(template_content, append_filename_str):
+    # save the updated template with numbered filename
+    output_path = "../output/orchard_" + append_filename_str + ".svg"
+    try:
+        with open(output_path, 'w') as output_file:
+            output_file.write(template_content)
+            output_file.close()
+            print("Created ", output_path)
+    except FileNotFoundError:
+            print(f"File '{output_path}' not created.")
 
-# # read the template svg
-# my_template_content = get_template_content(template_path)
 
-# # replace template placeholders with data and save as new svg files
-# create_svg_files(my_template_content, my_orchard_data_frame)
+def main(template_path, database_path, template_size):
+    # read the database xlsx with string encoding forced
+    my_orchard_data_frame = pd.read_excel(database_path, dtype="string")
+    
+    # identify the last row by index
+    orchard_last_index = my_orchard_data_frame.last_valid_index()
+    
+    # my_template_num range is 0..orchard_last_index
+    my_template_num = 0
+    
+    # position on template, range 0..template_size-1
+    index = 0
+    
+    # int to append to each completed template filename eg orchard0.svg
+    append_filename = 0
+        
+    # loop on rows and save every 'template_size' rows and at last row
+    for row in my_orchard_data_frame.iterrows():
+    
+        index = my_template_num % template_size
+        
+        if index == 0:  # new template started
+            # read the template svg file with placeholders for 12 more signs
+            my_template = get_template(template_path)    
+            
+        # update a sign in template with row data
+        my_template = update_template(my_template, row, index)
+        
+        if (index == (template_size-1)) or (my_template_num == orchard_last_index):
+            # template full or last row of data
+            append_filename_str = str(append_filename)        
+            save_template(my_template, append_filename_str)
+            append_filename += 1 # increment filename counter
+    
+        my_template_num += 1
+
