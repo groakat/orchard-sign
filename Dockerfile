@@ -11,8 +11,7 @@ RUN apt-get update \
 RUN curl -L -o montserrat.tar.gz https://github.com/JulietaUla/Montserrat/archive/refs/tags/v7.222.tar.gz \
   && mkdir montserrat \
   && tar -xvf montserrat.tar.gz -C montserrat --strip-components=1 \
-  && /usr/share/fonts/truetype/montserrat \
-  && mkdir /usr/share/fonts/truetype/montserrat/ \
+  && mkdir -p /usr/share/fonts/truetype/montserrat/ \
   && cp montserrat/fonts/ttf/* /usr/share/fonts/truetype/montserrat/ \
   && rm -r montserrat*
 
