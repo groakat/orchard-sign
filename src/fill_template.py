@@ -10,30 +10,31 @@ def get_template(template_path):
         print(f"File '{template_path}' not found.")
     return template
 
-def update_template(template_content, row, index):
+def update_template(template_content, row, index, key_map=None):
     # input:
     #   the template as perhaps already modified by this function
     #   the database row 
     #   the sign sequence number 0..template_size-1
+    #   key_map: dict[placeholder, column]. 
+    #       `column` is the column in `row` that contains the data that is substituting `placeholder`  
     # return:
     #   the modified template
     
-    index_str = str(index)
-
-    # replace eg "PLOT_REF_11<" with "C78<" in template_content
-    new_content = template_content.replace("PLOT_"+ index_str+"<", str(row[1]["PLOT_REF"]+"<"))
+    if key_map is None:
+        key_map = {
+            "PLOT": "PLOT_REF",
+            "VARIETY": "VARIETY",
+            "ROOT": "ROOTSTOCKS",
+            "POLL": "Code"
+        }
     
-    new_content = new_content.replace("VARIETY_"+ index_str+"<", str(row[1]["VARIETY"]+"<")) 
-        
-    if isinstance(row[1]["ROOTSTOCKS"], str):
-        new_content = new_content.replace("ROOT_"+ index_str+"<", str(row[1]["ROOTSTOCKS"]+"<"))
-    else:
-        new_content = new_content.replace("ROOT_"+ index_str+"<", " <")
-        
-    if isinstance(row[1]["Code"], str):
-        new_content = new_content.replace("POLL_"+ index_str+"<", str(row[1]["Code"]+"<"))
-    else:
-        new_content = new_content.replace("POLL_"+ index_str+"<", " <")
+    new_content = template_content
+    for k, r in key_map.items():
+        # check if row contains data (otherwise it renders as <NA>)
+        if not str(row[1][r]) == "<NA>":
+            new_content = new_content.replace(f"{k}_{index:02d}", str(row[1][r]))
+        else:
+            new_content = new_content.replace(f"{k}_{index:02d}", "")
         
     return new_content
 
@@ -50,7 +51,7 @@ def save_template(template_content, append_filename_str):
             print(f"File '{output_path}' not created.")
 
 
-def main(template_path, database_path, template_size):
+def main(template_path, database_path, template_size, key_map=None):
     # read the database xlsx with string encoding forced
     my_orchard_data_frame = pd.read_excel(database_path, dtype="string")
     
@@ -67,8 +68,7 @@ def main(template_path, database_path, template_size):
     append_filename = 0
         
     # loop on rows and save every 'template_size' rows and at last row
-    for row in my_orchard_data_frame.iterrows():
-    
+    for row in my_orchard_data_frame.iterrows():    
         index = my_template_num % template_size
         
         if index == 0:  # new template started
@@ -76,11 +76,11 @@ def main(template_path, database_path, template_size):
             my_template = get_template(template_path)    
             
         # update a sign in template with row data
-        my_template = update_template(my_template, row, index)
+        my_template = update_template(my_template, row, index, key_map)
         
         if (index == (template_size-1)) or (my_template_num == orchard_last_index):
             # template full or last row of data
-            append_filename_str = str(append_filename)        
+            append_filename_str = f"{append_filename:05d}"        
             save_template(my_template, append_filename_str)
             append_filename += 1 # increment filename counter
     

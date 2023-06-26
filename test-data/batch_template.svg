@@ -2,19 +2,19 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   width="500mm"
+   height="300mm"
+   viewBox="0 0 500 300"
+   version="1.1"
+   id="svg138576"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="batch_template.svg"
-   id="svg5"
-   version="1.1"
-   viewBox="0 0 500 300"
-   height="300mm"
-   width="500mm"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview7"
+     id="namedview138578"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -23,1688 +23,1266 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.8"
-     inkscape:cx="973.125"
-     inkscape:cy="706.875"
-     inkscape:window-width="3766"
+     inkscape:zoom="1.1326109"
+     inkscape:cx="936.33218"
+     inkscape:cy="441.89935"
+     inkscape:window-width="3774"
      inkscape:window-height="2096"
-     inkscape:window-x="74"
-     inkscape:window-y="27"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     units="mm" />
+     inkscape:current-layer="layer1" />
   <defs
-     id="defs2">
+     id="defs138573">
     <rect
-       x="83.664408"
-       y="82.449697"
-       width="458.67407"
-       height="89.258824"
-       id="rect58511" />
+       x="162.29997"
+       y="468.34186"
+       width="499.32968"
+       height="53.178146"
+       id="rect195898-6-7-2" />
     <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-0" />
+       x="162.29997"
+       y="468.34186"
+       width="499.32968"
+       height="53.178146"
+       id="rect195898-6-7-2-4" />
     <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-4" />
+       x="162.29997"
+       y="468.34186"
+       width="499.32968"
+       height="53.178146"
+       id="rect195898-6-7-2-5" />
     <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-6" />
+       x="162.29997"
+       y="468.34186"
+       width="499.32968"
+       height="53.178146"
+       id="rect195898-6-7-2-0" />
     <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-40" />
+       x="162.29997"
+       y="468.34186"
+       width="499.32968"
+       height="53.178146"
+       id="rect195898-6-7-2-8" />
     <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-4-5" />
+       x="162.29997"
+       y="468.34186"
+       width="499.32968"
+       height="53.178146"
+       id="rect195898-6-7-2-0-0" />
     <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-6-9" />
+       x="162.29997"
+       y="468.34186"
+       width="499.32968"
+       height="53.178146"
+       id="rect195898-6-7-2-41" />
     <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-40-0" />
+       x="162.29997"
+       y="468.34186"
+       width="499.32968"
+       height="53.178146"
+       id="rect195898-6-7-2-0-4" />
     <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-4-5-3" />
+       x="162.29997"
+       y="468.34186"
+       width="499.32968"
+       height="53.178146"
+       id="rect195898-6-7-2-83" />
     <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-6-9-9" />
+       x="162.29997"
+       y="468.34186"
+       width="499.32968"
+       height="53.178146"
+       id="rect195898-6-7-2-0-1" />
     <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-40-7" />
+       x="162.29997"
+       y="468.34186"
+       width="499.32968"
+       height="53.178146"
+       id="rect195898-6-7-2-2" />
     <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-4-5-0" />
+       x="162.29997"
+       y="468.34186"
+       width="499.32968"
+       height="53.178146"
+       id="rect195898-6-7-2-0-49" />
     <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-6-9-4" />
+       x="162.29997"
+       y="468.34186"
+       width="499.32968"
+       height="53.178146"
+       id="rect195898-6-7-2-9" />
     <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-0-4" />
-    <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-0-4-1" />
-    <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-0-4-5" />
-    <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-5" />
-    <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-5-2" />
-    <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-5-7" />
-    <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-9" />
-    <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-9-6" />
-    <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-9-7" />
-    <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-9-8" />
-    <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-9-9" />
-    <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-9-92" />
-    <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-9-8-8" />
-    <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-9-9-8" />
-    <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-9-925" />
-    <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-9-8-7" />
-    <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-9-9-4" />
-    <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-9-0" />
-    <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-9-8-1" />
-    <rect
-       x="83.664406"
-       y="82.449699"
-       width="458.67407"
-       height="89.258827"
-       id="rect58511-9-9-3" />
+       x="162.29997"
+       y="468.34186"
+       width="499.32968"
+       height="53.178146"
+       id="rect195898-6-7-2-0-2" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <g
+       id="g154273">
+      <g
+         id="g152303"
+         transform="rotate(-90,76.687662,91.013102)">
+        <rect
+           style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
+           id="rect1002-9-9-4-2-2-6-7-43"
+           width="75"
+           height="148"
+           x="19.510567"
+           y="-166.65462"
+           transform="rotate(90)" />
+        <g
+           id="g154000"
+           transform="translate(-1.3666439,2.4615898)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;letter-spacing:0.396875px;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="158.54973"
+             y="30.611252"
+             id="text3440-3-8-9-7-8-2-3-4-7"><tspan
+               sodipodi:role="line"
+               id="tspan3438-9-5-9-0-92-6-6-6-1"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="158.94661"
+               y="30.611252">PLOT</tspan></text>
+          <path
+             style="fill:none;stroke:#008000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 28.383334,54.003161 160.49764,53.872591"
+             id="path48291-0-0-6-9-5-5-4-2"
+             sodipodi:nodetypes="cc" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="30.008474"
+             y="30.611252"
+             id="text3440-6-5-2-8-7-6-7-2"><tspan
+               sodipodi:role="line"
+               id="tspan3438-3-7-8-26-7-9-3-0"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="30.008474"
+               y="30.611252">FRUIT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="93.792671"
+             y="30.789047"
+             id="text3440-6-5-2-8-7-6-7-5-2"><tspan
+               sodipodi:role="line"
+               id="tspan3438-3-7-8-26-7-9-3-8-1"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="93.991112"
+               y="30.789047">TYPE</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.423333px;white-space:pre;inline-size:128.937;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="42.032001"
+             y="61.454422"
+             id="text15642-6-0-9-2-0-6-2-7"
+             transform="translate(-12.022786,-0.463689)"><tspan
+               x="42.032001"
+               y="61.454422"
+               id="tspan155982">NOTES</tspan></text>
+          <rect
+             style="fill:none;stroke:#008000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect36182-6-2-5-7-5"
+             width="139.47147"
+             height="64.400352"
+             x="24.285528"
+             y="22.348801" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,-14.558536,-84.781329)"
+             id="text195896-2-7-1"
+             style="font-weight:100;font-size:32px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;white-space:pre;shape-inside:url(#rect195898-6-7-2)"
+             x="136.61188"
+             y="0"><tspan
+               x="345.54898"
+               y="497.75279"
+               id="tspan155984">VARIETY</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g152303-96"
+         transform="rotate(-90,151.74603,166.07141)">
+        <rect
+           style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
+           id="rect1002-9-9-4-2-2-6-7-43-7"
+           width="75"
+           height="148"
+           x="19.510567"
+           y="-166.65462"
+           transform="rotate(90)" />
+        <g
+           id="g154000-2"
+           transform="translate(-1.3666439,2.4615898)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;letter-spacing:0.396875px;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="158.54973"
+             y="30.611252"
+             id="text3440-3-8-9-7-8-2-3-4-7-1"><tspan
+               sodipodi:role="line"
+               id="tspan3438-9-5-9-0-92-6-6-6-1-4"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="158.94661"
+               y="30.611252">PLOT</tspan></text>
+          <path
+             style="fill:none;stroke:#008000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 28.383334,54.003161 160.49764,53.872591"
+             id="path48291-0-0-6-9-5-5-4-2-4"
+             sodipodi:nodetypes="cc" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="30.008474"
+             y="30.611252"
+             id="text3440-6-5-2-8-7-6-7-2-8"><tspan
+               sodipodi:role="line"
+               id="tspan3438-3-7-8-26-7-9-3-0-4"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="30.008474"
+               y="30.611252">FRUIT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="93.792671"
+             y="30.789047"
+             id="text3440-6-5-2-8-7-6-7-5-2-9"><tspan
+               sodipodi:role="line"
+               id="tspan3438-3-7-8-26-7-9-3-8-1-8"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="93.991112"
+               y="30.789047">TYPE</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.423333px;white-space:pre;inline-size:128.937;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="42.032001"
+             y="61.454422"
+             id="text15642-6-0-9-2-0-6-2-7-4"
+             transform="translate(-12.022786,-0.463689)"><tspan
+               x="42.032001"
+               y="61.454422"
+               id="tspan155986">NOTES</tspan></text>
+          <rect
+             style="fill:none;stroke:#008000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect36182-6-2-5-7-5-4"
+             width="139.47147"
+             height="64.400352"
+             x="24.285528"
+             y="22.348801" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,-14.558536,-84.781329)"
+             id="text195896-2-7-1-19"
+             style="font-weight:100;font-size:32px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;white-space:pre;shape-inside:url(#rect195898-6-7-2-0)"
+             x="136.61188"
+             y="0"><tspan
+               x="345.54898"
+               y="497.75279"
+               id="tspan155988">VARIETY</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g154273-9"
+       transform="translate(82.620053)">
+      <g
+         id="g152303-3"
+         transform="rotate(-90,76.687662,91.013102)">
+        <rect
+           style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
+           id="rect1002-9-9-4-2-2-6-7-43-63"
+           width="75"
+           height="148"
+           x="19.510567"
+           y="-166.65462"
+           transform="rotate(90)" />
+        <g
+           id="g154000-8"
+           transform="translate(-1.3666439,2.4615898)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;letter-spacing:0.396875px;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="158.54973"
+             y="30.611252"
+             id="text3440-3-8-9-7-8-2-3-4-7-9"><tspan
+               sodipodi:role="line"
+               id="tspan3438-9-5-9-0-92-6-6-6-1-5"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="158.94661"
+               y="30.611252">PLOT</tspan></text>
+          <path
+             style="fill:none;stroke:#008000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 28.383334,54.003161 160.49764,53.872591"
+             id="path48291-0-0-6-9-5-5-4-2-01"
+             sodipodi:nodetypes="cc" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="30.008474"
+             y="30.611252"
+             id="text3440-6-5-2-8-7-6-7-2-7"><tspan
+               sodipodi:role="line"
+               id="tspan3438-3-7-8-26-7-9-3-0-1"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="30.008474"
+               y="30.611252">FRUIT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="93.792671"
+             y="30.789047"
+             id="text3440-6-5-2-8-7-6-7-5-2-98"><tspan
+               sodipodi:role="line"
+               id="tspan3438-3-7-8-26-7-9-3-8-1-2"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="93.991112"
+               y="30.789047">TYPE</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.423333px;white-space:pre;inline-size:128.937;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="42.032001"
+             y="61.454422"
+             id="text15642-6-0-9-2-0-6-2-7-6"
+             transform="translate(-12.022786,-0.463689)"><tspan
+               x="42.032001"
+               y="61.454422"
+               id="tspan155990">NOTES</tspan></text>
+          <rect
+             style="fill:none;stroke:#008000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect36182-6-2-5-7-5-7"
+             width="139.47147"
+             height="64.400352"
+             x="24.285528"
+             y="22.348801" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,-14.558536,-84.781329)"
+             id="text195896-2-7-1-5"
+             style="font-weight:100;font-size:32px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;white-space:pre;shape-inside:url(#rect195898-6-7-2-8)"
+             x="136.61188"
+             y="0"><tspan
+               x="345.54898"
+               y="497.75279"
+               id="tspan155992">VARIETY</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g152303-96-9"
+         transform="rotate(-90,151.74603,166.07141)">
+        <rect
+           style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
+           id="rect1002-9-9-4-2-2-6-7-43-7-3"
+           width="75"
+           height="148"
+           x="19.510567"
+           y="-166.65462"
+           transform="rotate(90)" />
+        <g
+           id="g154000-2-9"
+           transform="translate(-1.3666439,2.4615898)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;letter-spacing:0.396875px;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="158.54973"
+             y="30.611252"
+             id="text3440-3-8-9-7-8-2-3-4-7-1-9"><tspan
+               sodipodi:role="line"
+               id="tspan3438-9-5-9-0-92-6-6-6-1-4-7"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="158.94661"
+               y="30.611252">PLOT</tspan></text>
+          <path
+             style="fill:none;stroke:#008000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 28.383334,54.003161 160.49764,53.872591"
+             id="path48291-0-0-6-9-5-5-4-2-4-9"
+             sodipodi:nodetypes="cc" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="30.008474"
+             y="30.611252"
+             id="text3440-6-5-2-8-7-6-7-2-8-7"><tspan
+               sodipodi:role="line"
+               id="tspan3438-3-7-8-26-7-9-3-0-4-3"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="30.008474"
+               y="30.611252">FRUIT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="93.792671"
+             y="30.789047"
+             id="text3440-6-5-2-8-7-6-7-5-2-9-5"><tspan
+               sodipodi:role="line"
+               id="tspan3438-3-7-8-26-7-9-3-8-1-8-0"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="93.991112"
+               y="30.789047">TYPE</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.423333px;white-space:pre;inline-size:128.937;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="42.032001"
+             y="61.454422"
+             id="text15642-6-0-9-2-0-6-2-7-4-4"
+             transform="translate(-12.022786,-0.463689)"><tspan
+               x="42.032001"
+               y="61.454422"
+               id="tspan155994">NOTES</tspan></text>
+          <rect
+             style="fill:none;stroke:#008000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect36182-6-2-5-7-5-4-1"
+             width="139.47147"
+             height="64.400352"
+             x="24.285528"
+             y="22.348801" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,-14.558536,-84.781329)"
+             id="text195896-2-7-1-19-9"
+             style="font-weight:100;font-size:32px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;white-space:pre;shape-inside:url(#rect195898-6-7-2-0-0)"
+             x="136.61188"
+             y="0"><tspan
+               x="345.54898"
+               y="497.75279"
+               id="tspan155996">VARIETY</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g154273-3"
+       transform="translate(165.24009)">
+      <g
+         id="g152303-6"
+         transform="rotate(-90,76.687662,91.013102)">
+        <rect
+           style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
+           id="rect1002-9-9-4-2-2-6-7-43-4"
+           width="75"
+           height="148"
+           x="19.510567"
+           y="-166.65462"
+           transform="rotate(90)" />
+        <g
+           id="g154000-22"
+           transform="translate(-1.3666439,2.4615898)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;letter-spacing:0.396875px;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="158.54973"
+             y="30.611252"
+             id="text3440-3-8-9-7-8-2-3-4-7-7"><tspan
+               sodipodi:role="line"
+               id="tspan3438-9-5-9-0-92-6-6-6-1-6"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="158.94661"
+               y="30.611252">PLOT</tspan></text>
+          <path
+             style="fill:none;stroke:#008000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 28.383334,54.003161 160.49764,53.872591"
+             id="path48291-0-0-6-9-5-5-4-2-1"
+             sodipodi:nodetypes="cc" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="30.008474"
+             y="30.611252"
+             id="text3440-6-5-2-8-7-6-7-2-85"><tspan
+               sodipodi:role="line"
+               id="tspan3438-3-7-8-26-7-9-3-0-11"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="30.008474"
+               y="30.611252">FRUIT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="93.792671"
+             y="30.789047"
+             id="text3440-6-5-2-8-7-6-7-5-2-3"><tspan
+               sodipodi:role="line"
+               id="tspan3438-3-7-8-26-7-9-3-8-1-06"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="93.991112"
+               y="30.789047">TYPE</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.423333px;white-space:pre;inline-size:128.937;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="42.032001"
+             y="61.454422"
+             id="text15642-6-0-9-2-0-6-2-7-44"
+             transform="translate(-12.022786,-0.463689)"><tspan
+               x="42.032001"
+               y="61.454422"
+               id="tspan155998">NOTES</tspan></text>
+          <rect
+             style="fill:none;stroke:#008000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect36182-6-2-5-7-5-75"
+             width="139.47147"
+             height="64.400352"
+             x="24.285528"
+             y="22.348801" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,-14.558536,-84.781329)"
+             id="text195896-2-7-1-3"
+             style="font-weight:100;font-size:32px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;white-space:pre;shape-inside:url(#rect195898-6-7-2-41)"
+             x="136.61188"
+             y="0"><tspan
+               x="345.54898"
+               y="497.75279"
+               id="tspan156000">VARIETY</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g152303-96-8"
+         transform="rotate(-90,151.74603,166.07141)">
+        <rect
+           style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
+           id="rect1002-9-9-4-2-2-6-7-43-7-2"
+           width="75"
+           height="148"
+           x="19.510567"
+           y="-166.65462"
+           transform="rotate(90)" />
+        <g
+           id="g154000-2-7"
+           transform="translate(-1.3666439,2.4615898)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;letter-spacing:0.396875px;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="158.54973"
+             y="30.611252"
+             id="text3440-3-8-9-7-8-2-3-4-7-1-3"><tspan
+               sodipodi:role="line"
+               id="tspan3438-9-5-9-0-92-6-6-6-1-4-5"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="158.94661"
+               y="30.611252">PLOT</tspan></text>
+          <path
+             style="fill:none;stroke:#008000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 28.383334,54.003161 160.49764,53.872591"
+             id="path48291-0-0-6-9-5-5-4-2-4-3"
+             sodipodi:nodetypes="cc" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="30.008474"
+             y="30.611252"
+             id="text3440-6-5-2-8-7-6-7-2-8-74"><tspan
+               sodipodi:role="line"
+               id="tspan3438-3-7-8-26-7-9-3-0-4-8"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="30.008474"
+               y="30.611252">FRUIT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="93.792671"
+             y="30.789047"
+             id="text3440-6-5-2-8-7-6-7-5-2-9-0"><tspan
+               sodipodi:role="line"
+               id="tspan3438-3-7-8-26-7-9-3-8-1-8-01"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="93.991112"
+               y="30.789047">TYPE</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.423333px;white-space:pre;inline-size:128.937;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="42.032001"
+             y="61.454422"
+             id="text15642-6-0-9-2-0-6-2-7-4-6"
+             transform="translate(-12.022786,-0.463689)"><tspan
+               x="42.032001"
+               y="61.454422"
+               id="tspan156002">NOTES</tspan></text>
+          <rect
+             style="fill:none;stroke:#008000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect36182-6-2-5-7-5-4-4"
+             width="139.47147"
+             height="64.400352"
+             x="24.285528"
+             y="22.348801" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,-14.558536,-84.781329)"
+             id="text195896-2-7-1-19-5"
+             style="font-weight:100;font-size:32px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;white-space:pre;shape-inside:url(#rect195898-6-7-2-0-4)"
+             x="136.61188"
+             y="0"><tspan
+               x="345.54898"
+               y="497.75279"
+               id="tspan156004">VARIETY</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g154273-2"
+       transform="translate(247.86012)">
+      <g
+         id="g152303-2"
+         transform="rotate(-90,76.687662,91.013102)">
+        <rect
+           style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
+           id="rect1002-9-9-4-2-2-6-7-43-9"
+           width="75"
+           height="148"
+           x="19.510567"
+           y="-166.65462"
+           transform="rotate(90)" />
+        <g
+           id="g154000-5"
+           transform="translate(-1.3666439,2.4615898)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;letter-spacing:0.396875px;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="158.54973"
+             y="30.611252"
+             id="text3440-3-8-9-7-8-2-3-4-7-5"><tspan
+               sodipodi:role="line"
+               id="tspan3438-9-5-9-0-92-6-6-6-1-46"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="158.94661"
+               y="30.611252">PLOT</tspan></text>
+          <path
+             style="fill:none;stroke:#008000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 28.383334,54.003161 160.49764,53.872591"
+             id="path48291-0-0-6-9-5-5-4-2-3"
+             sodipodi:nodetypes="cc" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="30.008474"
+             y="30.611252"
+             id="text3440-6-5-2-8-7-6-7-2-1"><tspan
+               sodipodi:role="line"
+               id="tspan3438-3-7-8-26-7-9-3-0-20"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="30.008474"
+               y="30.611252">FRUIT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="93.792671"
+             y="30.789047"
+             id="text3440-6-5-2-8-7-6-7-5-2-6"><tspan
+               sodipodi:role="line"
+               id="tspan3438-3-7-8-26-7-9-3-8-1-5"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="93.991112"
+               y="30.789047">TYPE</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.423333px;white-space:pre;inline-size:128.937;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="42.032001"
+             y="61.454422"
+             id="text15642-6-0-9-2-0-6-2-7-1"
+             transform="translate(-12.022786,-0.463689)"><tspan
+               x="42.032001"
+               y="61.454422"
+               id="tspan156006">NOTES</tspan></text>
+          <rect
+             style="fill:none;stroke:#008000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect36182-6-2-5-7-5-94"
+             width="139.47147"
+             height="64.400352"
+             x="24.285528"
+             y="22.348801" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,-14.558536,-84.781329)"
+             id="text195896-2-7-1-4"
+             style="font-weight:100;font-size:32px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;white-space:pre;shape-inside:url(#rect195898-6-7-2-83)"
+             x="136.61188"
+             y="0"><tspan
+               x="345.54898"
+               y="497.75279"
+               id="tspan156008">VARIETY</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g152303-96-6"
+         transform="rotate(-90,151.74603,166.07141)">
+        <rect
+           style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
+           id="rect1002-9-9-4-2-2-6-7-43-7-8"
+           width="75"
+           height="148"
+           x="19.510567"
+           y="-166.65462"
+           transform="rotate(90)" />
+        <g
+           id="g154000-2-1"
+           transform="translate(-1.3666439,2.4615898)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;letter-spacing:0.396875px;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="158.54973"
+             y="30.611252"
+             id="text3440-3-8-9-7-8-2-3-4-7-1-0"><tspan
+               sodipodi:role="line"
+               id="tspan3438-9-5-9-0-92-6-6-6-1-4-8"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="158.94661"
+               y="30.611252">PLOT</tspan></text>
+          <path
+             style="fill:none;stroke:#008000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 28.383334,54.003161 160.49764,53.872591"
+             id="path48291-0-0-6-9-5-5-4-2-4-1"
+             sodipodi:nodetypes="cc" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="30.008474"
+             y="30.611252"
+             id="text3440-6-5-2-8-7-6-7-2-8-2"><tspan
+               sodipodi:role="line"
+               id="tspan3438-3-7-8-26-7-9-3-0-4-9"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="30.008474"
+               y="30.611252">FRUIT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="93.792671"
+             y="30.789047"
+             id="text3440-6-5-2-8-7-6-7-5-2-9-8"><tspan
+               sodipodi:role="line"
+               id="tspan3438-3-7-8-26-7-9-3-8-1-8-8"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="93.991112"
+               y="30.789047">TYPE</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.423333px;white-space:pre;inline-size:128.937;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="42.032001"
+             y="61.454422"
+             id="text15642-6-0-9-2-0-6-2-7-4-68"
+             transform="translate(-12.022786,-0.463689)"><tspan
+               x="42.032001"
+               y="61.454422"
+               id="tspan156010">NOTES</tspan></text>
+          <rect
+             style="fill:none;stroke:#008000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect36182-6-2-5-7-5-4-2"
+             width="139.47147"
+             height="64.400352"
+             x="24.285528"
+             y="22.348801" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,-14.558536,-84.781329)"
+             id="text195896-2-7-1-19-0"
+             style="font-weight:100;font-size:32px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;white-space:pre;shape-inside:url(#rect195898-6-7-2-0-1)"
+             x="136.61188"
+             y="0"><tspan
+               x="345.54898"
+               y="497.75279"
+               id="tspan156012">VARIETY</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g154273-8"
+       transform="translate(330.48018)">
+      <g
+         id="g152303-1"
+         transform="rotate(-90,76.687662,91.013102)">
+        <rect
+           style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
+           id="rect1002-9-9-4-2-2-6-7-43-5"
+           width="75"
+           height="148"
+           x="19.510567"
+           y="-166.65462"
+           transform="rotate(90)" />
+        <g
+           id="g154000-6"
+           transform="translate(-1.3666439,2.4615898)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;letter-spacing:0.396875px;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="158.54973"
+             y="30.611252"
+             id="text3440-3-8-9-7-8-2-3-4-7-4"><tspan
+               sodipodi:role="line"
+               id="tspan3438-9-5-9-0-92-6-6-6-1-68"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="158.94661"
+               y="30.611252">PLOT</tspan></text>
+          <path
+             style="fill:none;stroke:#008000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 28.383334,54.003161 160.49764,53.872591"
+             id="path48291-0-0-6-9-5-5-4-2-6"
+             sodipodi:nodetypes="cc" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="30.008474"
+             y="30.611252"
+             id="text3440-6-5-2-8-7-6-7-2-35"><tspan
+               sodipodi:role="line"
+               id="tspan3438-3-7-8-26-7-9-3-0-7"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="30.008474"
+               y="30.611252">FRUIT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="93.792671"
+             y="30.789047"
+             id="text3440-6-5-2-8-7-6-7-5-2-4"><tspan
+               sodipodi:role="line"
+               id="tspan3438-3-7-8-26-7-9-3-8-1-24"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="93.991112"
+               y="30.789047">TYPE</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.423333px;white-space:pre;inline-size:128.937;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="42.032001"
+             y="61.454422"
+             id="text15642-6-0-9-2-0-6-2-7-02"
+             transform="translate(-12.022786,-0.463689)"><tspan
+               x="42.032001"
+               y="61.454422"
+               id="tspan156014">NOTES</tspan></text>
+          <rect
+             style="fill:none;stroke:#008000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect36182-6-2-5-7-5-72"
+             width="139.47147"
+             height="64.400352"
+             x="24.285528"
+             y="22.348801" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,-14.558536,-84.781329)"
+             id="text195896-2-7-1-0"
+             style="font-weight:100;font-size:32px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;white-space:pre;shape-inside:url(#rect195898-6-7-2-2)"
+             x="136.61188"
+             y="0"><tspan
+               x="345.54898"
+               y="497.75279"
+               id="tspan156016">VARIETY</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g152303-96-1"
+         transform="rotate(-90,151.74603,166.07141)">
+        <rect
+           style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
+           id="rect1002-9-9-4-2-2-6-7-43-7-6"
+           width="75"
+           height="148"
+           x="19.510567"
+           y="-166.65462"
+           transform="rotate(90)" />
+        <g
+           id="g154000-2-19"
+           transform="translate(-1.3666439,2.4615898)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;letter-spacing:0.396875px;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="158.54973"
+             y="30.611252"
+             id="text3440-3-8-9-7-8-2-3-4-7-1-4"><tspan
+               sodipodi:role="line"
+               id="tspan3438-9-5-9-0-92-6-6-6-1-4-9"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="158.94661"
+               y="30.611252">PLOT</tspan></text>
+          <path
+             style="fill:none;stroke:#008000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 28.383334,54.003161 160.49764,53.872591"
+             id="path48291-0-0-6-9-5-5-4-2-4-96"
+             sodipodi:nodetypes="cc" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="30.008474"
+             y="30.611252"
+             id="text3440-6-5-2-8-7-6-7-2-8-9"><tspan
+               sodipodi:role="line"
+               id="tspan3438-3-7-8-26-7-9-3-0-4-4"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="30.008474"
+               y="30.611252">FRUIT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="93.792671"
+             y="30.789047"
+             id="text3440-6-5-2-8-7-6-7-5-2-9-2"><tspan
+               sodipodi:role="line"
+               id="tspan3438-3-7-8-26-7-9-3-8-1-8-02"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="93.991112"
+               y="30.789047">TYPE</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.423333px;white-space:pre;inline-size:128.937;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="42.032001"
+             y="61.454422"
+             id="text15642-6-0-9-2-0-6-2-7-4-3"
+             transform="translate(-12.022786,-0.463689)"><tspan
+               x="42.032001"
+               y="61.454422"
+               id="tspan156018">NOTES</tspan></text>
+          <rect
+             style="fill:none;stroke:#008000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect36182-6-2-5-7-5-4-6"
+             width="139.47147"
+             height="64.400352"
+             x="24.285528"
+             y="22.348801" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,-14.558536,-84.781329)"
+             id="text195896-2-7-1-19-8"
+             style="font-weight:100;font-size:32px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;white-space:pre;shape-inside:url(#rect195898-6-7-2-0-49)"
+             x="136.61188"
+             y="0"><tspan
+               x="345.54898"
+               y="497.75279"
+               id="tspan156020">VARIETY</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g154273-86"
+       transform="translate(413.10024)">
+      <g
+         id="g152303-7"
+         transform="rotate(-90,76.687662,91.013102)">
+        <rect
+           style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
+           id="rect1002-9-9-4-2-2-6-7-43-35"
+           width="75"
+           height="148"
+           x="19.510567"
+           y="-166.65462"
+           transform="rotate(90)" />
+        <g
+           id="g154000-3"
+           transform="translate(-1.3666439,2.4615898)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;letter-spacing:0.396875px;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="158.54973"
+             y="30.611252"
+             id="text3440-3-8-9-7-8-2-3-4-7-59"><tspan
+               sodipodi:role="line"
+               id="tspan3438-9-5-9-0-92-6-6-6-1-59"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="158.94661"
+               y="30.611252">PLOT</tspan></text>
+          <path
+             style="fill:none;stroke:#008000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 28.383334,54.003161 160.49764,53.872591"
+             id="path48291-0-0-6-9-5-5-4-2-7"
+             sodipodi:nodetypes="cc" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="30.008474"
+             y="30.611252"
+             id="text3440-6-5-2-8-7-6-7-2-9"><tspan
+               sodipodi:role="line"
+               id="tspan3438-3-7-8-26-7-9-3-0-90"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="30.008474"
+               y="30.611252">FRUIT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="93.792671"
+             y="30.789047"
+             id="text3440-6-5-2-8-7-6-7-5-2-5"><tspan
+               sodipodi:role="line"
+               id="tspan3438-3-7-8-26-7-9-3-8-1-21"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="93.991112"
+               y="30.789047">TYPE</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.423333px;white-space:pre;inline-size:128.937;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="42.032001"
+             y="61.454422"
+             id="text15642-6-0-9-2-0-6-2-7-020"
+             transform="translate(-12.022786,-0.463689)"><tspan
+               x="42.032001"
+               y="61.454422"
+               id="tspan156022">NOTES</tspan></text>
+          <rect
+             style="fill:none;stroke:#008000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect36182-6-2-5-7-5-6"
+             width="139.47147"
+             height="64.400352"
+             x="24.285528"
+             y="22.348801" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,-14.558536,-84.781329)"
+             id="text195896-2-7-1-36"
+             style="font-weight:100;font-size:32px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;white-space:pre;shape-inside:url(#rect195898-6-7-2-9)"
+             x="136.61188"
+             y="0"><tspan
+               x="345.54898"
+               y="497.75279"
+               id="tspan156024">VARIETY</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g152303-96-94"
+         transform="rotate(-90,151.74603,166.07141)">
+        <rect
+           style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
+           id="rect1002-9-9-4-2-2-6-7-43-7-84"
+           width="75"
+           height="148"
+           x="19.510567"
+           y="-166.65462"
+           transform="rotate(90)" />
+        <g
+           id="g154000-2-0"
+           transform="translate(-1.3666439,2.4615898)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;letter-spacing:0.396875px;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="158.54973"
+             y="30.611252"
+             id="text3440-3-8-9-7-8-2-3-4-7-1-8"><tspan
+               sodipodi:role="line"
+               id="tspan3438-9-5-9-0-92-6-6-6-1-4-4"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="158.94661"
+               y="30.611252">PLOT</tspan></text>
+          <path
+             style="fill:none;stroke:#008000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 28.383334,54.003161 160.49764,53.872591"
+             id="path48291-0-0-6-9-5-5-4-2-4-4"
+             sodipodi:nodetypes="cc" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="30.008474"
+             y="30.611252"
+             id="text3440-6-5-2-8-7-6-7-2-8-8"><tspan
+               sodipodi:role="line"
+               id="tspan3438-3-7-8-26-7-9-3-0-4-2"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="30.008474"
+               y="30.611252">FRUIT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="93.792671"
+             y="30.789047"
+             id="text3440-6-5-2-8-7-6-7-5-2-9-4"><tspan
+               sodipodi:role="line"
+               id="tspan3438-3-7-8-26-7-9-3-8-1-8-2"
+               style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+               x="93.991112"
+               y="30.789047">TYPE</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.423333px;white-space:pre;inline-size:128.937;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="42.032001"
+             y="61.454422"
+             id="text15642-6-0-9-2-0-6-2-7-4-7"
+             transform="translate(-12.022786,-0.463689)"><tspan
+               x="42.032001"
+               y="61.454422"
+               id="tspan156026">NOTES</tspan></text>
+          <rect
+             style="fill:none;stroke:#008000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect36182-6-2-5-7-5-4-7"
+             width="139.47147"
+             height="64.400352"
+             x="24.285528"
+             y="22.348801" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,-14.558536,-84.781329)"
+             id="text195896-2-7-1-19-99"
+             style="font-weight:100;font-size:32px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;white-space:pre;shape-inside:url(#rect195898-6-7-2-0-2)"
+             x="136.61188"
+             y="0"><tspan
+               x="345.54898"
+               y="497.75279"
+               id="tspan156028">VARIETY</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g152303-9"
+       transform="translate(51.713148,-130.59608)">
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
+         id="rect1002-9-9-4-2-2-6-7-43-3"
+         width="75"
+         height="148"
+         x="19.510567"
+         y="-166.65462"
+         transform="rotate(90)" />
+      <g
+         id="g154000-4"
+         transform="translate(-1.3666439,2.4615898)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;letter-spacing:0.396875px;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           x="158.54973"
+           y="30.611252"
+           id="text3440-3-8-9-7-8-2-3-4-7-6"><tspan
+             sodipodi:role="line"
+             id="tspan3438-9-5-9-0-92-6-6-6-1-2"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="158.94661"
+             y="30.611252">PLOT</tspan></text>
+        <path
+           style="fill:none;stroke:#008000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 28.383334,54.003161 160.49764,53.872591"
+           id="path48291-0-0-6-9-5-5-4-2-5"
+           sodipodi:nodetypes="cc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           x="30.008474"
+           y="30.611252"
+           id="text3440-6-5-2-8-7-6-7-2-3"><tspan
+             sodipodi:role="line"
+             id="tspan3438-3-7-8-26-7-9-3-0-2"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="30.008474"
+             y="30.611252">FRUIT</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           x="93.792671"
+           y="30.789047"
+           id="text3440-6-5-2-8-7-6-7-5-2-0"><tspan
+             sodipodi:role="line"
+             id="tspan3438-3-7-8-26-7-9-3-8-1-0"
+             style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             x="93.991112"
+             y="30.789047">TYPE</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.423333px;white-space:pre;inline-size:128.937;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           x="42.032001"
+           y="61.454422"
+           id="text15642-6-0-9-2-0-6-2-7-0"
+           transform="translate(-12.022786,-0.463689)"><tspan
+             x="42.032001"
+             y="61.454422"
+             id="tspan156030">NOTES</tspan></text>
+        <rect
+           style="fill:none;stroke:#008000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect36182-6-2-5-7-5-9"
+           width="139.47147"
+           height="64.400352"
+           x="24.285528"
+           y="22.348801" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-14.558536,-84.781329)"
+           id="text195896-2-7-1-8"
+           style="font-weight:100;font-size:32px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;white-space:pre;shape-inside:url(#rect195898-6-7-2-5)"
+           x="136.61188"
+           y="0"><tspan
+             x="345.54898"
+             y="497.75279"
+             id="tspan156032">VARIETY</tspan></text>
+      </g>
+    </g>
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dashoffset:1.03181;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect1002-9"
-       width="60"
+       style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
+       id="rect1002-9-9-4-2-2-6-7-43-6"
+       width="70"
        height="145"
-       x="-118.95194"
-       y="-166.32158"
-       rx="0.34595215"
-       ry="1.1544596"
+       x="-97.109016"
+       y="12.734703"
        transform="rotate(90)" />
-    <g
-       id="g217834"
-       style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-      <text
-         xml:space="preserve"
-         style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-         x="27.297033"
-         y="-65.522324"
-         id="text3440-6"><tspan
-           sodipodi:role="line"
-           id="tspan3438-3"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-           x="27.297033"
-           y="-65.522324">34</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-         x="27.140409"
-         y="-72.555611"
-         id="text15642-6"><tspan
-           sodipodi:role="line"
-           id="tspan15640-1"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-           x="27.140409"
-           y="-72.555611">Plot Reference:</tspan></text>
-    </g>
-    <g
-       id="g217840"
-       transform="translate(0,-0.75720978)"
-       style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-      <text
-         xml:space="preserve"
-         style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-         x="77.371895"
-         y="-65.60762"
-         id="text3440-3-8"><tspan
-           sodipodi:role="line"
-           id="tspan3438-9-5"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-           x="77.371895"
-           y="-65.60762">On pear seedling</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-         x="77.379143"
-         y="-71.798401"
-         id="text15642-2-1"><tspan
-           sodipodi:role="line"
-           id="tspan15640-9-59"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-           x="77.379143"
-           y="-71.798401">Rootstock:</tspan></text>
-    </g>
-    <g
-       id="g217846"
-       transform="translate(0,-0.55000305)"
-       style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-      <text
-         xml:space="preserve"
-         style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-         x="130.88655"
-         y="-65.814827"
-         id="text3440-3-0-8"><tspan
-           sodipodi:role="line"
-           id="tspan3438-9-8-4"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-           x="130.88655"
-           y="-65.814827">Self fertile</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-         x="130.89381"
-         y="-72.005608"
-         id="text15642-2-8-8"><tspan
-           sodipodi:role="line"
-           id="tspan15640-9-5-1"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-           x="130.89381"
-           y="-72.005608">Pollination:</tspan></text>
-    </g>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 28.050284,-82.871765 H 155.52472"
-       id="path48291-0" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,9.0846666,-124.92891)"
-       id="text58509-3"
-       style="font-size:24px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect58511-0);stroke-width:0.37795276;stroke-miterlimit:4;stroke-dasharray:none"
-       x="104.31445"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;letter-spacing:0.396875px;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-20.839592"
+       y="-86.008331"
+       id="text3440-3-8-9-7-8-2-3-4-7-3"><tspan
+         sodipodi:role="line"
+         id="tspan3438-9-5-9-0-92-6-6-6-1-8"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:end;text-anchor:end;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="-20.442711"
+         y="-86.008331">B45</tspan></text>
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -151.00599,-62.616419 132.11431,-0.13057"
+       id="path48291-0-0-6-9-5-5-4-2-0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-149.38084"
+       y="-86.008331"
+       id="text3440-6-5-2-8-7-6-7-2-4"><tspan
+         sodipodi:role="line"
+         id="tspan3438-3-7-8-26-7-9-3-0-9"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="-149.38084"
+         y="-86.008331">Plum</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.396875px;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-85.596649"
+       y="-85.830536"
+       id="text3440-6-5-2-8-7-6-7-5-2-7"><tspan
+         sodipodi:role="line"
+         id="tspan3438-3-7-8-26-7-9-3-8-1-9"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         x="-85.398209"
+         y="-85.830536">early</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';letter-spacing:0.423333px;white-space:pre;inline-size:128.937;fill:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       x="42.032001"
+       y="61.454422"
+       id="text15642-6-0-9-2-0-6-2-7-7"
+       transform="translate(-191.41211,-117.08327)"><tspan
+         x="42.032001"
+         y="61.454422"
+         id="tspan156034">Purple Pershore is well-known and reliable English </tspan><tspan
+         x="42.032001"
+         y="66.746081"
+         id="tspan156036">plum, grown commercially on a small-scale in the </tspan><tspan
+         x="42.032001"
+         y="72.037745"
+         id="tspan156038">vale of Evesham. The fruit is large, and perfect for </tspan><tspan
+         x="42.032001"
+         y="77.329409"
+         id="tspan156040">almost any kind of plum cookery, particularly plum </tspan><tspan
+         x="42.032001"
+         y="82.621073"
+         id="tspan156042">jam. The plums should be picked at the red stage.</tspan></text>
+    <rect
+       style="fill:none;stroke:#008000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect36182-6-2-5-7-5-5"
+       width="139.47147"
+       height="64.400352"
+       x="-155.10379"
+       y="-94.270782" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-193.94786,-201.40091)"
+       id="text195896-2-7-1-1"
+       style="font-weight:100;font-size:32px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Thin';text-align:center;white-space:pre;shape-inside:url(#rect195898-6-7-2-4)"
+       x="136.61188"
        y="0"><tspan
-         x="102.52051"
-         y="103.68359"
-         id="tspan17099"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-           id="tspan17097">Christie * from Carse of Gowrie </tspan></tspan></text>
-    <g
-       id="g15750"
-       transform="translate(0,3.7041668)">
-      <g
-         id="g101191-3"
-         transform="translate(9.449568,-2.6253265)"
-         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
-           id="rect1002-3"
-           width="60"
-           height="145"
-           x="11.797841"
-           y="-157.23691"
-           rx="0.34595215"
-           ry="1.1544596"
-           transform="rotate(90)" />
-        <g
-           id="g217852-8"
-           transform="translate(0,0.52916667)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="18.212366"
-             y="65.227455"
-             id="text3440-0"><tspan
-               sodipodi:role="line"
-               id="tspan3438-5"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="18.212366"
-               y="65.227455">PLOT</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="18.055742"
-             y="58.194172"
-             id="text15642-66"><tspan
-               sodipodi:role="line"
-               id="tspan15640-4"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="18.055742"
-               y="58.194172">Plot Reference:</tspan></text>
-        </g>
-        <g
-           id="g217858-0"
-           transform="translate(0,-0.22804311)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="68.287231"
-             y="65.142159"
-             id="text3440-3-04"><tspan
-               sodipodi:role="line"
-               id="tspan3438-9-6"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="68.287231"
-               y="65.142159">ROOT</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="68.294479"
-             y="58.951382"
-             id="text15642-2-2"><tspan
-               sodipodi:role="line"
-               id="tspan15640-9-6"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="68.294479"
-               y="58.951382">Rootstock:</tspan></text>
-        </g>
-        <g
-           id="g217864-7"
-           transform="translate(0,-0.02083638)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="121.80189"
-             y="64.934952"
-             id="text3440-3-0-5"><tspan
-               sodipodi:role="line"
-               id="tspan3438-9-8-69"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="121.80189"
-               y="64.934952">POLL</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="121.80914"
-             y="58.744175"
-             id="text15642-2-8-87"><tspan
-               sodipodi:role="line"
-               id="tspan15640-9-5-2"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="121.80914"
-               y="58.744175">Pollination:</tspan></text>
-        </g>
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 18.965617,47.878015 H 146.44005"
-           id="path48291-82" />
-        <text
-           xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"
-           id="text58509-9"
-           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-9);stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
-           x="62.203125"
-           y="0"><tspan
-             x="256.46387"
-             y="103.68359"
-             id="tspan17103"><tspan
-               style="font-weight:bold;text-align:center;text-anchor:middle"
-               id="tspan17101">VARIETY</tspan></tspan></text>
-      </g>
-      <g
-         id="g101191-3-0"
-         transform="translate(161.64438,-2.6253265)"
-         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
-           id="rect1002-3-4"
-           width="60"
-           height="145"
-           x="11.797841"
-           y="-157.23691"
-           rx="0.34595215"
-           ry="1.1544596"
-           transform="rotate(90)" />
-        <g
-           id="g217852-8-0"
-           transform="translate(0,0.52916667)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="18.212366"
-             y="65.227455"
-             id="text3440-0-9"><tspan
-               sodipodi:role="line"
-               id="tspan3438-5-1"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="18.212366"
-               y="65.227455">PLOT</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="18.055742"
-             y="58.194172"
-             id="text15642-66-9"><tspan
-               sodipodi:role="line"
-               id="tspan15640-4-6"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="18.055742"
-               y="58.194172">Plot Reference:</tspan></text>
-        </g>
-        <g
-           id="g217858-0-2"
-           transform="translate(0,-0.22804311)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="68.287231"
-             y="65.142159"
-             id="text3440-3-04-5"><tspan
-               sodipodi:role="line"
-               id="tspan3438-9-6-4"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="68.287231"
-               y="65.142159">ROOT</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="68.294479"
-             y="58.951382"
-             id="text15642-2-2-4"><tspan
-               sodipodi:role="line"
-               id="tspan15640-9-6-9"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="68.294479"
-               y="58.951382">Rootstock:</tspan></text>
-        </g>
-        <g
-           id="g217864-7-9"
-           transform="translate(0,-0.02083638)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="121.80189"
-             y="64.934952"
-             id="text3440-3-0-5-3"><tspan
-               sodipodi:role="line"
-               id="tspan3438-9-8-69-6"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="121.80189"
-               y="64.934952">POLL</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="121.80914"
-             y="58.744175"
-             id="text15642-2-8-87-0"><tspan
-               sodipodi:role="line"
-               id="tspan15640-9-5-2-5"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="121.80914"
-               y="58.744175">Pollination:</tspan></text>
-        </g>
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 18.965617,47.878015 H 146.44005"
-           id="path48291-82-0" />
-        <text
-           xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"
-           id="text58509-9-2"
-           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-9-8);stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
-           x="62.203125"
-           y="0"><tspan
-             x="256.46387"
-             y="103.68359"
-             id="tspan17107"><tspan
-               style="font-weight:bold;text-align:center;text-anchor:middle"
-               id="tspan17105">VARIETY</tspan></tspan></text>
-      </g>
-      <g
-         id="g101191-3-4"
-         transform="translate(313.83914,-2.6253265)"
-         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
-           id="rect1002-3-3"
-           width="60"
-           height="145"
-           x="11.797841"
-           y="-157.23691"
-           rx="0.34595215"
-           ry="1.1544596"
-           transform="rotate(90)" />
-        <g
-           id="g217852-8-5"
-           transform="translate(0,0.52916667)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="18.212366"
-             y="65.227455"
-             id="text3440-0-1"><tspan
-               sodipodi:role="line"
-               id="tspan3438-5-7"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="18.212366"
-               y="65.227455">PLOT</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="18.055742"
-             y="58.194172"
-             id="text15642-66-4"><tspan
-               sodipodi:role="line"
-               id="tspan15640-4-3"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="18.055742"
-               y="58.194172">Plot Reference:</tspan></text>
-        </g>
-        <g
-           id="g217858-0-1"
-           transform="translate(0,-0.22804311)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="68.287231"
-             y="65.142159"
-             id="text3440-3-04-4"><tspan
-               sodipodi:role="line"
-               id="tspan3438-9-6-6"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="68.287231"
-               y="65.142159">ROOT</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="68.294479"
-             y="58.951382"
-             id="text15642-2-2-9"><tspan
-               sodipodi:role="line"
-               id="tspan15640-9-6-4"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="68.294479"
-               y="58.951382">Rootstock:</tspan></text>
-        </g>
-        <g
-           id="g217864-7-2"
-           transform="translate(0,-0.02083638)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="121.80189"
-             y="64.934952"
-             id="text3440-3-0-5-2"><tspan
-               sodipodi:role="line"
-               id="tspan3438-9-8-69-64"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="121.80189"
-               y="64.934952">POLL</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="121.80914"
-             y="58.744175"
-             id="text15642-2-8-87-1"><tspan
-               sodipodi:role="line"
-               id="tspan15640-9-5-2-2"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="121.80914"
-               y="58.744175">Pollination:</tspan></text>
-        </g>
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 18.965617,47.878015 H 146.44005"
-           id="path48291-82-8" />
-        <text
-           xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"
-           id="text58509-9-8"
-           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-9-9);stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
-           x="62.203125"
-           y="0"><tspan
-             x="256.46387"
-             y="103.68359"
-             id="tspan17111"><tspan
-               style="font-weight:bold;text-align:center;text-anchor:middle"
-               id="tspan17109">VARIETY</tspan></tspan></text>
-      </g>
-    </g>
-    <g
-       id="g15750-8"
-       transform="translate(0,75.203097)">
-      <g
-         id="g101191-3-6"
-         transform="translate(9.449568,-2.6253265)"
-         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
-           id="rect1002-3-8"
-           width="60"
-           height="145"
-           x="11.797841"
-           y="-157.23691"
-           rx="0.34595215"
-           ry="1.1544596"
-           transform="rotate(90)" />
-        <g
-           id="g217852-8-3"
-           transform="translate(0,0.52916667)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="18.212366"
-             y="65.227455"
-             id="text3440-0-8"><tspan
-               sodipodi:role="line"
-               id="tspan3438-5-3"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="18.212366"
-               y="65.227455">PLOT</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="18.055742"
-             y="58.194172"
-             id="text15642-66-3"><tspan
-               sodipodi:role="line"
-               id="tspan15640-4-38"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="18.055742"
-               y="58.194172">Plot Reference:</tspan></text>
-        </g>
-        <g
-           id="g217858-0-0"
-           transform="translate(0,-0.22804311)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="68.287231"
-             y="65.142159"
-             id="text3440-3-04-47"><tspan
-               sodipodi:role="line"
-               id="tspan3438-9-6-68"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="68.287231"
-               y="65.142159">ROOT</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="68.294479"
-             y="58.951382"
-             id="text15642-2-2-90"><tspan
-               sodipodi:role="line"
-               id="tspan15640-9-6-6"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="68.294479"
-               y="58.951382">Rootstock:</tspan></text>
-        </g>
-        <g
-           id="g217864-7-8"
-           transform="translate(0,-0.02083638)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="121.80189"
-             y="64.934952"
-             id="text3440-3-0-5-7"><tspan
-               sodipodi:role="line"
-               id="tspan3438-9-8-69-9"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="121.80189"
-               y="64.934952">POLL</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="121.80914"
-             y="58.744175"
-             id="text15642-2-8-87-03"><tspan
-               sodipodi:role="line"
-               id="tspan15640-9-5-2-3"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="121.80914"
-               y="58.744175">Pollination:</tspan></text>
-        </g>
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 18.965617,47.878015 H 146.44005"
-           id="path48291-82-3" />
-        <text
-           xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"
-           id="text58509-9-7"
-           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-9-92);stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
-           x="62.203125"
-           y="0"><tspan
-             x="256.46387"
-             y="103.68359"
-             id="tspan17115"><tspan
-               style="font-weight:bold;text-align:center;text-anchor:middle"
-               id="tspan17113">VARIETY</tspan></tspan></text>
-      </g>
-      <g
-         id="g101191-3-0-3"
-         transform="translate(161.64438,-2.6253265)"
-         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
-           id="rect1002-3-4-2"
-           width="60"
-           height="145"
-           x="11.797841"
-           y="-157.23691"
-           rx="0.34595215"
-           ry="1.1544596"
-           transform="rotate(90)" />
-        <g
-           id="g217852-8-0-6"
-           transform="translate(0,0.52916667)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="18.212366"
-             y="65.227455"
-             id="text3440-0-9-5"><tspan
-               sodipodi:role="line"
-               id="tspan3438-5-1-2"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="18.212366"
-               y="65.227455">PLOT</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="18.055742"
-             y="58.194172"
-             id="text15642-66-9-6"><tspan
-               sodipodi:role="line"
-               id="tspan15640-4-6-5"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="18.055742"
-               y="58.194172">Plot Reference:</tspan></text>
-        </g>
-        <g
-           id="g217858-0-2-8"
-           transform="translate(0,-0.22804311)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="68.287231"
-             y="65.142159"
-             id="text3440-3-04-5-7"><tspan
-               sodipodi:role="line"
-               id="tspan3438-9-6-4-9"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="68.287231"
-               y="65.142159">ROOT</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="68.294479"
-             y="58.951382"
-             id="text15642-2-2-4-6"><tspan
-               sodipodi:role="line"
-               id="tspan15640-9-6-9-0"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="68.294479"
-               y="58.951382">Rootstock:</tspan></text>
-        </g>
-        <g
-           id="g217864-7-9-4"
-           transform="translate(0,-0.02083638)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="121.80189"
-             y="64.934952"
-             id="text3440-3-0-5-3-1"><tspan
-               sodipodi:role="line"
-               id="tspan3438-9-8-69-6-0"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="121.80189"
-               y="64.934952">POLL</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="121.80914"
-             y="58.744175"
-             id="text15642-2-8-87-0-4"><tspan
-               sodipodi:role="line"
-               id="tspan15640-9-5-2-5-8"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="121.80914"
-               y="58.744175">Pollination:</tspan></text>
-        </g>
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 18.965617,47.878015 H 146.44005"
-           id="path48291-82-0-7" />
-        <text
-           xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"
-           id="text58509-9-2-0"
-           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-9-8-8);stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
-           x="62.203125"
-           y="0"><tspan
-             x="256.46387"
-             y="103.68359"
-             id="tspan17119"><tspan
-               style="font-weight:bold;text-align:center;text-anchor:middle"
-               id="tspan17117">VARIETY</tspan></tspan></text>
-      </g>
-      <g
-         id="g101191-3-4-8"
-         transform="translate(313.83914,-2.6253265)"
-         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
-           id="rect1002-3-3-6"
-           width="60"
-           height="145"
-           x="11.797841"
-           y="-157.23691"
-           rx="0.34595215"
-           ry="1.1544596"
-           transform="rotate(90)" />
-        <g
-           id="g217852-8-5-2"
-           transform="translate(0,0.52916667)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="18.212366"
-             y="65.227455"
-             id="text3440-0-1-4"><tspan
-               sodipodi:role="line"
-               id="tspan3438-5-7-7"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="18.212366"
-               y="65.227455">PLOT</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="18.055742"
-             y="58.194172"
-             id="text15642-66-4-9"><tspan
-               sodipodi:role="line"
-               id="tspan15640-4-3-3"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="18.055742"
-               y="58.194172">Plot Reference:</tspan></text>
-        </g>
-        <g
-           id="g217858-0-1-9"
-           transform="translate(0,-0.22804311)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="68.287231"
-             y="65.142159"
-             id="text3440-3-04-4-2"><tspan
-               sodipodi:role="line"
-               id="tspan3438-9-6-6-8"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="68.287231"
-               y="65.142159">ROOT</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="68.294479"
-             y="58.951382"
-             id="text15642-2-2-9-3"><tspan
-               sodipodi:role="line"
-               id="tspan15640-9-6-4-0"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="68.294479"
-               y="58.951382">Rootstock:</tspan></text>
-        </g>
-        <g
-           id="g217864-7-2-1"
-           transform="translate(0,-0.02083638)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="121.80189"
-             y="64.934952"
-             id="text3440-3-0-5-2-7"><tspan
-               sodipodi:role="line"
-               id="tspan3438-9-8-69-64-8"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="121.80189"
-               y="64.934952">POLL</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="121.80914"
-             y="58.744175"
-             id="text15642-2-8-87-1-9"><tspan
-               sodipodi:role="line"
-               id="tspan15640-9-5-2-2-1"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="121.80914"
-               y="58.744175">Pollination:</tspan></text>
-        </g>
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 18.965617,47.878015 H 146.44005"
-           id="path48291-82-8-5" />
-        <text
-           xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"
-           id="text58509-9-8-4"
-           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-9-9-8);stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
-           x="62.203125"
-           y="0"><tspan
-             x="256.46387"
-             y="103.68359"
-             id="tspan17123"><tspan
-               style="font-weight:bold;text-align:center;text-anchor:middle"
-               id="tspan17121">VARIETY</tspan></tspan></text>
-      </g>
-    </g>
-    <g
-       id="g15750-9"
-       transform="translate(0,146.70203)">
-      <g
-         id="g101191-3-9"
-         transform="translate(9.449568,-2.6253265)"
-         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
-           id="rect1002-3-45"
-           width="60"
-           height="145"
-           x="11.797841"
-           y="-157.23691"
-           rx="0.34595215"
-           ry="1.1544596"
-           transform="rotate(90)" />
-        <g
-           id="g217852-8-9"
-           transform="translate(0,0.52916667)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="18.212366"
-             y="65.227455"
-             id="text3440-0-3"><tspan
-               sodipodi:role="line"
-               id="tspan3438-5-5"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="18.212366"
-               y="65.227455">PLOT</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="18.055742"
-             y="58.194172"
-             id="text15642-66-7"><tspan
-               sodipodi:role="line"
-               id="tspan15640-4-0"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="18.055742"
-               y="58.194172">Plot Reference:</tspan></text>
-        </g>
-        <g
-           id="g217858-0-8"
-           transform="translate(0,-0.22804311)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="68.287231"
-             y="65.142159"
-             id="text3440-3-04-1"><tspan
-               sodipodi:role="line"
-               id="tspan3438-9-6-9"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="68.287231"
-               y="65.142159">ROOT</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="68.294479"
-             y="58.951382"
-             id="text15642-2-2-97"><tspan
-               sodipodi:role="line"
-               id="tspan15640-9-6-8"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="68.294479"
-               y="58.951382">Rootstock:</tspan></text>
-        </g>
-        <g
-           id="g217864-7-25"
-           transform="translate(0,-0.02083638)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="121.80189"
-             y="64.934952"
-             id="text3440-3-0-5-34"><tspan
-               sodipodi:role="line"
-               id="tspan3438-9-8-69-90"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="121.80189"
-               y="64.934952">POLL</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="121.80914"
-             y="58.744175"
-             id="text15642-2-8-87-2"><tspan
-               sodipodi:role="line"
-               id="tspan15640-9-5-2-0"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="121.80914"
-               y="58.744175">Pollination:</tspan></text>
-        </g>
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 18.965617,47.878015 H 146.44005"
-           id="path48291-82-1" />
-        <text
-           xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"
-           id="text58509-9-9"
-           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-9-925);stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
-           x="62.203125"
-           y="0"><tspan
-             x="256.46387"
-             y="103.68359"
-             id="tspan17127"><tspan
-               style="font-weight:bold;text-align:center;text-anchor:middle"
-               id="tspan17125">VARIETY</tspan></tspan></text>
-      </g>
-      <g
-         id="g101191-3-0-6"
-         transform="translate(161.64438,-2.6253265)"
-         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
-           id="rect1002-3-4-21"
-           width="60"
-           height="145"
-           x="11.797841"
-           y="-157.23691"
-           rx="0.34595215"
-           ry="1.1544596"
-           transform="rotate(90)" />
-        <g
-           id="g217852-8-0-2"
-           transform="translate(0,0.52916667)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="18.212366"
-             y="65.227455"
-             id="text3440-0-9-0"><tspan
-               sodipodi:role="line"
-               id="tspan3438-5-1-7"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="18.212366"
-               y="65.227455">PLOT</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="18.055742"
-             y="58.194172"
-             id="text15642-66-9-3"><tspan
-               sodipodi:role="line"
-               id="tspan15640-4-6-1"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="18.055742"
-               y="58.194172">Plot Reference:</tspan></text>
-        </g>
-        <g
-           id="g217858-0-2-1"
-           transform="translate(0,-0.22804311)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="68.287231"
-             y="65.142159"
-             id="text3440-3-04-5-9"><tspan
-               sodipodi:role="line"
-               id="tspan3438-9-6-4-0"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="68.287231"
-               y="65.142159">ROOT</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="68.294479"
-             y="58.951382"
-             id="text15642-2-2-4-5"><tspan
-               sodipodi:role="line"
-               id="tspan15640-9-6-9-6"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="68.294479"
-               y="58.951382">Rootstock:</tspan></text>
-        </g>
-        <g
-           id="g217864-7-9-7"
-           transform="translate(0,-0.02083638)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="121.80189"
-             y="64.934952"
-             id="text3440-3-0-5-3-7"><tspan
-               sodipodi:role="line"
-               id="tspan3438-9-8-69-6-4"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="121.80189"
-               y="64.934952">POLL</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="121.80914"
-             y="58.744175"
-             id="text15642-2-8-87-0-0"><tspan
-               sodipodi:role="line"
-               id="tspan15640-9-5-2-5-6"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="121.80914"
-               y="58.744175">Pollination:</tspan></text>
-        </g>
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 18.965617,47.878015 H 146.44005"
-           id="path48291-82-0-4" />
-        <text
-           xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"
-           id="text58509-9-2-7"
-           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-9-8-7);stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
-           x="62.203125"
-           y="0"><tspan
-             x="256.46387"
-             y="103.68359"
-             id="tspan17131"><tspan
-               style="font-weight:bold;text-align:center;text-anchor:middle"
-               id="tspan17129">VARIETY</tspan></tspan></text>
-      </g>
-      <g
-         id="g101191-3-4-4"
-         transform="translate(313.83914,-2.6253265)"
-         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
-           id="rect1002-3-3-8"
-           width="60"
-           height="145"
-           x="11.797841"
-           y="-157.23691"
-           rx="0.34595215"
-           ry="1.1544596"
-           transform="rotate(90)" />
-        <g
-           id="g217852-8-5-5"
-           transform="translate(0,0.52916667)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="18.212366"
-             y="65.227455"
-             id="text3440-0-1-8"><tspan
-               sodipodi:role="line"
-               id="tspan3438-5-7-2"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="18.212366"
-               y="65.227455">PLOT</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="18.055742"
-             y="58.194172"
-             id="text15642-66-4-6"><tspan
-               sodipodi:role="line"
-               id="tspan15640-4-3-0"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="18.055742"
-               y="58.194172">Plot Reference:</tspan></text>
-        </g>
-        <g
-           id="g217858-0-1-6"
-           transform="translate(0,-0.22804311)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="68.287231"
-             y="65.142159"
-             id="text3440-3-04-4-6"><tspan
-               sodipodi:role="line"
-               id="tspan3438-9-6-6-4"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="68.287231"
-               y="65.142159">ROOT</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="68.294479"
-             y="58.951382"
-             id="text15642-2-2-9-6"><tspan
-               sodipodi:role="line"
-               id="tspan15640-9-6-4-2"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="68.294479"
-               y="58.951382">Rootstock:</tspan></text>
-        </g>
-        <g
-           id="g217864-7-2-8"
-           transform="translate(0,-0.02083638)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="121.80189"
-             y="64.934952"
-             id="text3440-3-0-5-2-9"><tspan
-               sodipodi:role="line"
-               id="tspan3438-9-8-69-64-6"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="121.80189"
-               y="64.934952">POLL</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="121.80914"
-             y="58.744175"
-             id="text15642-2-8-87-1-0"><tspan
-               sodipodi:role="line"
-               id="tspan15640-9-5-2-2-7"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="121.80914"
-               y="58.744175">Pollination:</tspan></text>
-        </g>
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 18.965617,47.878015 H 146.44005"
-           id="path48291-82-8-0" />
-        <text
-           xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"
-           id="text58509-9-8-1"
-           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-9-9-4);stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
-           x="62.203125"
-           y="0"><tspan
-             x="256.46387"
-             y="103.68359"
-             id="tspan17135"><tspan
-               style="font-weight:bold;text-align:center;text-anchor:middle"
-               id="tspan17133">VARIETY</tspan></tspan></text>
-      </g>
-    </g>
-    <g
-       id="g15750-7"
-       transform="translate(0,218.20095)">
-      <g
-         id="g101191-3-7"
-         transform="translate(9.449568,-2.6253265)"
-         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
-           id="rect1002-3-2"
-           width="60"
-           height="145"
-           x="11.797841"
-           y="-157.23691"
-           rx="0.34595215"
-           ry="1.1544596"
-           transform="rotate(90)" />
-        <g
-           id="g217852-8-6"
-           transform="translate(0,0.52916667)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="18.212366"
-             y="65.227455"
-             id="text3440-0-4"><tspan
-               sodipodi:role="line"
-               id="tspan3438-5-52"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="18.212366"
-               y="65.227455">PLOT</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="18.055742"
-             y="58.194172"
-             id="text15642-66-0"><tspan
-               sodipodi:role="line"
-               id="tspan15640-4-2"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="18.055742"
-               y="58.194172">Plot Reference:</tspan></text>
-        </g>
-        <g
-           id="g217858-0-9"
-           transform="translate(0,-0.22804311)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="68.287231"
-             y="65.142159"
-             id="text3440-3-04-0"><tspan
-               sodipodi:role="line"
-               id="tspan3438-9-6-99"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="68.287231"
-               y="65.142159">ROOT</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="68.294479"
-             y="58.951382"
-             id="text15642-2-2-45"><tspan
-               sodipodi:role="line"
-               id="tspan15640-9-6-1"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="68.294479"
-               y="58.951382">Rootstock:</tspan></text>
-        </g>
-        <g
-           id="g217864-7-0"
-           transform="translate(0,-0.02083638)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="121.80189"
-             y="64.934952"
-             id="text3440-3-0-5-37"><tspan
-               sodipodi:role="line"
-               id="tspan3438-9-8-69-8"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="121.80189"
-               y="64.934952">POLL</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="121.80914"
-             y="58.744175"
-             id="text15642-2-8-87-8"><tspan
-               sodipodi:role="line"
-               id="tspan15640-9-5-2-6"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="121.80914"
-               y="58.744175">Pollination:</tspan></text>
-        </g>
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 18.965617,47.878015 H 146.44005"
-           id="path48291-82-04" />
-        <text
-           xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"
-           id="text58509-9-6"
-           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-9-0);stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
-           x="62.203125"
-           y="0"><tspan
-             x="256.46387"
-             y="103.68359"
-             id="tspan17139"><tspan
-               style="font-weight:bold;text-align:center;text-anchor:middle"
-               id="tspan17137">VARIETY</tspan></tspan></text>
-      </g>
-      <g
-         id="g101191-3-0-7"
-         transform="translate(161.64438,-2.6253265)"
-         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
-           id="rect1002-3-4-6"
-           width="60"
-           height="145"
-           x="11.797841"
-           y="-157.23691"
-           rx="0.34595215"
-           ry="1.1544596"
-           transform="rotate(90)" />
-        <g
-           id="g217852-8-0-0"
-           transform="translate(0,0.52916667)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="18.212366"
-             y="65.227455"
-             id="text3440-0-9-9"><tspan
-               sodipodi:role="line"
-               id="tspan3438-5-1-75"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="18.212366"
-               y="65.227455">PLOT</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="18.055742"
-             y="58.194172"
-             id="text15642-66-9-9"><tspan
-               sodipodi:role="line"
-               id="tspan15640-4-6-7"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="18.055742"
-               y="58.194172">Plot Reference:</tspan></text>
-        </g>
-        <g
-           id="g217858-0-2-85"
-           transform="translate(0,-0.22804311)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="68.287231"
-             y="65.142159"
-             id="text3440-3-04-5-3"><tspan
-               sodipodi:role="line"
-               id="tspan3438-9-6-4-3"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="68.287231"
-               y="65.142159">ROOT</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="68.294479"
-             y="58.951382"
-             id="text15642-2-2-4-8"><tspan
-               sodipodi:role="line"
-               id="tspan15640-9-6-9-3"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="68.294479"
-               y="58.951382">Rootstock:</tspan></text>
-        </g>
-        <g
-           id="g217864-7-9-79"
-           transform="translate(0,-0.02083638)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="121.80189"
-             y="64.934952"
-             id="text3440-3-0-5-3-3"><tspan
-               sodipodi:role="line"
-               id="tspan3438-9-8-69-6-7"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="121.80189"
-               y="64.934952">POLL</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="121.80914"
-             y="58.744175"
-             id="text15642-2-8-87-0-8"><tspan
-               sodipodi:role="line"
-               id="tspan15640-9-5-2-5-7"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="121.80914"
-               y="58.744175">Pollination:</tspan></text>
-        </g>
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 18.965617,47.878015 H 146.44005"
-           id="path48291-82-0-41" />
-        <text
-           xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"
-           id="text58509-9-2-9"
-           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-9-8-1);stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
-           x="62.203125"
-           y="0"><tspan
-             x="256.46387"
-             y="103.68359"
-             id="tspan17143"><tspan
-               style="font-weight:bold;text-align:center;text-anchor:middle"
-               id="tspan17141">VARIETY</tspan></tspan></text>
-      </g>
-      <g
-         id="g101191-3-4-0"
-         transform="translate(313.83914,-2.6253265)"
-         style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.03181"
-           id="rect1002-3-3-9"
-           width="60"
-           height="145"
-           x="11.797841"
-           y="-157.23691"
-           rx="0.34595215"
-           ry="1.1544596"
-           transform="rotate(90)" />
-        <g
-           id="g217852-8-5-8"
-           transform="translate(0,0.52916667)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="18.212366"
-             y="65.227455"
-             id="text3440-0-1-85"><tspan
-               sodipodi:role="line"
-               id="tspan3438-5-7-8"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="18.212366"
-               y="65.227455">PLOT</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="18.055742"
-             y="58.194172"
-             id="text15642-66-4-4"><tspan
-               sodipodi:role="line"
-               id="tspan15640-4-3-37"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="18.055742"
-               y="58.194172">Plot Reference:</tspan></text>
-        </g>
-        <g
-           id="g217858-0-1-1"
-           transform="translate(0,-0.22804311)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="68.287231"
-             y="65.142159"
-             id="text3440-3-04-4-3"><tspan
-               sodipodi:role="line"
-               id="tspan3438-9-6-6-80"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="68.287231"
-               y="65.142159">ROOT</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="68.294479"
-             y="58.951382"
-             id="text15642-2-2-9-9"><tspan
-               sodipodi:role="line"
-               id="tspan15640-9-6-4-7"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="68.294479"
-               y="58.951382">Rootstock:</tspan></text>
-        </g>
-        <g
-           id="g217864-7-2-9"
-           transform="translate(0,-0.02083638)"
-           style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="121.80189"
-             y="64.934952"
-             id="text3440-3-0-5-2-93"><tspan
-               sodipodi:role="line"
-               id="tspan3438-9-8-69-64-2"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="121.80189"
-               y="64.934952">POLL</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-             x="121.80914"
-             y="58.744175"
-             id="text15642-2-8-87-1-4"><tspan
-               sodipodi:role="line"
-               id="tspan15640-9-5-2-2-3"
-               style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
-               x="121.80914"
-               y="58.744175">Pollination:</tspan></text>
-        </g>
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 18.965617,47.878015 H 146.44005"
-           id="path48291-82-8-7" />
-        <text
-           xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"
-           id="text58509-9-8-12"
-           style="font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect58511-9-9-3);stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
-           x="62.203125"
-           y="0"><tspan
-             x="256.46387"
-             y="103.68359"
-             id="tspan17147"><tspan
-               style="font-weight:bold;text-align:center;text-anchor:middle"
-               id="tspan17145">VARIETY</tspan></tspan></text>
-      </g>
-    </g>
+         x="286.1731"
+         y="497.75279"
+         id="tspan156044">Purple Pershore </tspan></text>
   </g>
 </svg>
