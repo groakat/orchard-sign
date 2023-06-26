@@ -28,15 +28,13 @@ def update_template(template_content, row, index, key_map=None):
             "POLL": "Code"
         }
     
-    index_str = str(index)
-    
     new_content = template_content
     for k, r in key_map.items():
         # check if row contains data (otherwise it renders as <NA>)
         if not str(row[1][r]) == "<NA>":
-            new_content = new_content.replace(f"{k}_{index_str}", str(row[1][r]))
+            new_content = new_content.replace(f"{k}_{index:02d}", str(row[1][r]))
         else:
-            new_content = new_content.replace(f"{k}_{index_str}", "")
+            new_content = new_content.replace(f"{k}_{index:02d}", "")
         
     return new_content
 
@@ -70,8 +68,7 @@ def main(template_path, database_path, template_size, key_map=None):
     append_filename = 0
         
     # loop on rows and save every 'template_size' rows and at last row
-    for row in my_orchard_data_frame.iterrows():
-    
+    for row in my_orchard_data_frame.iterrows():    
         index = my_template_num % template_size
         
         if index == 0:  # new template started

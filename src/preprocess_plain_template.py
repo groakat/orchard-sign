@@ -15,7 +15,7 @@ def process_plain_template(plain_template, key_words=("VARIETY", "PLOT", "ROOT",
     for line in plain_template:
         for k in key_words:
             if k in line:
-                line = line.replace(k, f"{k}_{counter[k]}")
+                line = line.replace(k, f"{k}_{counter[k]:02d}")
                 counter[k] += 1
 
         out += f"{line}\n"
